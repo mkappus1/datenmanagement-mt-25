@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><tmx version="1.4">
+  <header creationtool="ExampleTool" creationtoolversion="1.0" segtype="sentence" o-tmf="ExampleTMF" adminlang="en-US" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hello, world!</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Hallo, Welt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How are you?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wie geht es dir?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thank you!</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Danke!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
