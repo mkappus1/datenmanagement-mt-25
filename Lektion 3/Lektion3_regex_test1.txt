@@ -1,0 +1,19 @@
+Dies ist ein kurzer Testtext für Regex-Übungen.
+
+1) Wörter mit "ver" am Anfang:
+verstehen, verlieren, Verbesserung, Version, verboten, Vers.
+
+2) Zahlen im Text:
+Hier sind einige Zahlen: 123, 42, 2024, 3.1415, 007.
+
+3) E-Mail-Adressen:
+info@domain.de
+max.meier@example.ch
+test123@test.org
+ungültigeAdresse@, noch@eine
+
+4) Wörter mit genau 5 Buchstaben:
+Apfel, Banane, Tiger, Zebra, Stuhl, Tisch, Regex, Email.
+
+5) Satzzeichen:
+Hier ein paar! Satzzeichen? Komma, Punkt. Doppelpunkt: Semikolon; Klammern ( ) [ ] { } Anführungszeichen " ' ‹ › « ».
