@@ -1,0 +1,3 @@
+Hier beginnt die zweite kleine Datei.
+Sie heisst datei2.txt und ergänzt den Inhalt von datei1.txt.
+Zusammen ergeben sie eine längere Datei.

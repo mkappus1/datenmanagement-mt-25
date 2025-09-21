@@ -1,0 +1,3 @@
+Dies ist die erste kleine Datei.
+Sie heisst datei1.txt und hat ein paar Zeilen.
+cat kann mehrere Dateien zusammen anzeigen oder in eine neue Datei schreiben.
