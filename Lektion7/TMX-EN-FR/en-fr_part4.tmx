@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4"><header creationdate="Mon Nov  7 14:14:56 2022" srclang="en" adminlang="en" o-tmf="unknown" segtype="sentence" creationtool="Uplug" creationtoolversion="unknown" datatype="PlainText" />
+  <body><tu>
+      <tuv xml:lang="en"><seg>It is also spread via secretions on hands, tissues and surfaces that people touch. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle se propage également par le biais des sécrétions présentes sur les mains, les tissus et les surfaces que les personnes touchent. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Even so, about half of the children and working-age adults needing admission to intensive care have no pre-existing medical conditions. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Malgré tout, environ la moitié des enfants et des adultes en âge de travailler nécessitant une prise en charge en soins intensifs ne présentent pas d'affections médicales préexistantes. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Patients are advised to seek medical advice if their condition continues to get worse. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Il est recommandé aux patients de demander conseil auprès d'un médecin si leur état continue de s'aggraver. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The World Health Organization (WHO) also recommends vaccination for healthcare workers. </seg></tuv>
+      <tuv xml:lang="fr"><seg>L'Organisation mondiale de la santé (OMS) recommande également la vaccination des professionnels des soins de santé. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The 2009 A(H1N1)pdm09 influenza pandemic accounted for 123 000 to 203 000 deaths worldwide and a significant global socio-economic burden (3). </seg></tuv>
+      <tuv xml:lang="fr"><seg>La pandémie de grippe A(H1N1)pdm09, en 2009, a causé entre 123 000 et 203 000 décès à travers le monde et représenté à l'échelle de la planète un lourd fardeau socio-économique (3). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Most EU Member States follow the WHO recommendations to vaccinate pregnant women, and some follow recommendations to vaccinate healthy children aged 6 - 59 months. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La majorité des États membres de l'UE applique les recommandations de l'OMS préconisant de vacciner les femmes enceintes, et certains d'entre eux suivent les recommandations visant à faire vacciner les enfants en bonne santé âgés de 6 à 59 mois. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Vaccination is the most effective way to prevent influenza. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination est le moyen le plus efficace de prévention de la grippe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Approximately 20% of the population gets infected with influenza each year and one in four infected people will develop symptoms. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Environ 20 % de la population est touchée chaque année par la grippe, et une personne infectée sur quatre développera des symptômes. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In Europe, influenza occurs in regular annual epidemics in the winter season. </seg></tuv>
+      <tuv xml:lang="fr"><seg>En Europe, la grippe survient lors d'épidémies annuelles régulières pendant la saison hivernale. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>These epidemics are associated with high hospitalisation rates and mortality. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Ces épidémies sont associées à des taux élevés d'hospitalisation et à une mortalité importante. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Animals can also be infected with influenza. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les animaux peuvent également être infectés par la grippe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Antiviral medicines, taken as rapidly as possible after illness onset, are safe and effective measures for the treatment of influenza. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les médicaments antiviraux, pris le plus rapidement possible après le début de la maladie, sont des moyens sûrs et efficaces de traitement de la grippe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The mortality rate due to influenza has been estimated in the EU/EEA countries participating to the EuroMOMO network (1) to be as high as 25 deaths per 100 000 population in the 2016/27 and 2017/18 influenza seasons (2). </seg></tuv>
+      <tuv xml:lang="fr"><seg>Le taux de mortalité due à la grippe a été estimé, dans les pays de l'UE/EEE participant au réseau EuroMOMO (1), à 25 morts pour 100 000 habitants au cours des saisons grippales 2016/17 et 2017/18 (2). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For most cases of influenza, patients are advised to take bed rest and drink plenty of fluids in order to manage their symptoms; staying at home also minimises the risk of infecting others. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Dans la plupart des cas de grippe, il est conseillé aux patients de garder le lit et de boire beaucoup de liquide pour gérer leurs symptômes; rester à la maison réduit également le risque de contaminer d'autres personnes. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pandemic is the rapid spread of a new human influenza around the world. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Une pandémie signifie la propagation rapide d'une nouvelle grippe humaine dans le monde. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Influenza is easily transmitted from person to person. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La grippe se transmet facilement de personne à personne. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Severe illness and complications are more common in very young infants, the frail elderly and certain medical risk groups. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les états et les complications graves surviennent plus fréquemment chez les très jeunes enfants, les personnes âgées vulnérables et certains groupes à risque médical. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Complications of influenza include pneumonia and encephalitis (inflammation of the brain). </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les complications de la grippe incluent la pneumonie et l'encéphalite (inflammation du cerveau). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For those that do, common symptoms include: </seg></tuv>
+      <tuv xml:lang="fr"><seg>Chez ceux qui tombent malades, les symptômes les plus fréquents sont les suivants: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The EU Council Recommendation on seasonal influenza vaccination encourages countries to improve vaccination coverage among healthcare workers. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La recommandation du Conseil de l'UE concernant la vaccination contre la grippe saisonnière encourage les États à améliorer la couverture vaccinale chez les professionnels des soins de santé. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Influenza pandemics happen when a new strain of a flu virus appears which can infect humans, to which most people have no immunity and which can transmit efficiently from human to human. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les pandémies de grippe surviennent lorsqu'apparaît une nouvelle souche d'un virus de la grippe pouvant infecter les humains, contre laquelle la plupart d'entre eux n'ont pas d'immunité et qui peut se transmettre efficacement de personne à personne. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An update of seasonal influenza vaccines is needed yearly, since influenza viruses constantly evolve. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Une mise à jour des vaccins contre la grippe saisonnière est nécessaire chaque année, étant donné que les virus de la grippe évoluent en permanence. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The EU Member States recommend seasonal influenza vaccination for risk groups, such as the elderly, as well as individuals with chronic medical conditions like heart disease, problems with the lungs and airways, diabetes or immune system problems. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les États membres de l'UE recommandent la vaccination contre la grippe saisonnière pour les groupes à risque, comme les personnes âgées, ainsi que les personnes souffrant de maladies chroniques telles que les maladies cardiaques, les problèmes pulmonaires ou affectant les voies respiratoires, le diabète ou les problèmes touchant le système immunitaire. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In some cases, humans can be infected by animals, such as in cases of avian and swine influenza. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Dans certains cas, les humains peuvent être infectés par des animaux, par exemple dans les cas des grippes aviaire ou porcine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is mainly via direct contact with secretions from infectious patients, such as droplets of fluid released when they cough or breathe out. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Cela se fait principalement par contact direct avec des sécrétions de patients infectés, telles que des gouttelettes de liquide libérées lors de la toux ou de la respiration. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>People with pre-existing medical conditions are at higher risk of their condition worsening following influenza infection. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les personnes présentant des affections médicales préexistantes courent un risque accru d'aggravation de leur état à la suite d'une infection par la grippe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In some cases patients develop bacterial complications following influenza infection and need to be treated with antibiotics. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Dans certains cas, les patients développent des complications bactériennes à la suite de l'infection par la grippe; ils doivent alors être traités à l'aide d'antibiotiques. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In addition to seasonal epidemics, novel influenza viruses may occasionally emerge and cause pandemics. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Outre les épidémies saisonnières, de nouveaux virus grippaux peuvent apparaître de manière occasionnelle et provoquer des pandémies. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In addition to vaccination, antiviral medicines have been shown to be safe and effective measures to prevent influenza infection or to reduce the severity of infection in certain settings, such as nursing homes. </seg></tuv>
+      <tuv xml:lang="fr"><seg>En complément de la vaccination, il a été démontré que la prise de médicaments antiviraux constitue une mesure sûre et efficace pour prévenir l'infection par la grippe ou réduire la gravité de l'infection dans certains environnements, tels que les établissements de soins. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>However, antivirals are generally recommended for severe or rapidly progressing cases. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Toutefois, les antiviraux sont généralement indiqués pour des cas sévères, ou de progression rapide de la maladie. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The severity of the disease varies widely, from no symptoms at all through to severe illness. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Le degré de sévérité de la maladie est très variable, et va de l'absence totale de symptômes jusqu'à des états graves. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In uncomplicated cases, symptoms resolve spontaneously within one week from onset. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Dans les cas ne présentant pas de complications, les symptômes disparaissent d'eux-mêmes dans la semaine qui suit leur apparition. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How is influenza spread? </seg></tuv>
+      <tuv xml:lang="fr"><seg>Comment la grippe se propage-t-elle? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Who is at risk of influenza? </seg></tuv>
+      <tuv xml:lang="fr"><seg>Qui risque de contracter la grippe? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not everyone who is infected with an influenza virus becomes unwell. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les personnes infectées par un virus grippal ne développent pas toutes des symptômes. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are the complications of influenza? </seg></tuv>
+      <tuv xml:lang="fr"><seg>Quelles sont les complications de la grippe? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are the symptoms of influenza? </seg></tuv>
+      <tuv xml:lang="fr"><seg>Quels sont les symptômes de la grippe? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>sore throat; </seg></tuv>
+      <tuv xml:lang="fr"><seg>toux sèche. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What is influenza? </seg></tuv>
+      <tuv xml:lang="fr"><seg>Qu'est-ce que la grippe? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How is influenza treated? </seg></tuv>
+      <tuv xml:lang="fr"><seg>Comment traiter la grippe? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How can influenza be prevented? </seg></tuv>
+      <tuv xml:lang="fr"><seg>Comment prévenir la grippe? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Clinical Microbiology and Infection. </seg></tuv>
+      <tuv xml:lang="fr"><seg>fièvre ou état fébrile; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Rubella (German measles) is a viral infection. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La rubéole est une infection virale. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In healthy individuals it is usually a mild disease. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La maladie est généralement bénigne chez les personnes en bonne santé. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Pertussis is a highly infectious bacterial disease involving the lungs and airways. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La rougeole est une maladie virale très contagieuse qui peut être contractée à tout âge et peut se propager à grande échelle. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>About us </seg></tuv>
+      <tuv xml:lang="fr"><seg>Rubéole </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This website does not contain any specific information on the ongoing development of vaccines against COVID-19. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Il s'agit d'une initiative de l'Union européenne qui a été mise en œuvre suite à la recommandation du Conseil relative au renforcement de la coopération contre les maladies à prévention vaccinale adoptée en décembre 2018. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For up-to-date information on COVID-19, see: </seg></tuv>
+      <tuv xml:lang="fr"><seg>Des informations sur les calendriers nationaux de vaccination dans les pays de l'UE / EEE sont disponibles ici </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>1-4 people </seg></tuv>
+      <tuv xml:lang="fr"><seg>1-4 personnes </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fifth Edition 2008, Elsevier Inc. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Cinquième édition 2008, Elsevier Inc. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thanks to vaccination: </seg></tuv>
+      <tuv xml:lang="fr"><seg>Grâce à la vaccination: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>transmission of polio has ended in most parts of the world, including Europe. </seg></tuv>
+      <tuv xml:lang="fr"><seg>la polio ne se transmet plus dans la plupart des régions du globe, y compris en Europe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is known as 'community immunity' (also referred to as 'herd immunity'). </seg></tuv>
+      <tuv xml:lang="fr"><seg>C'est ce que l'on appelle l' "immunité communautaire" (également dénommée "immunité grégaire"). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This shows both the most conservative estimate (inner ring, darker dots) and the maximum estimate (outer ring, paler dots). </seg></tuv>
+      <tuv xml:lang="fr"><seg>Cela illustre à la fois l'estimation la plus prudente (anneau intérieur, points sombres) et l'estimation maximale (anneau extérieur, points clairs). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They help reduce the social, psychological and financial burdens of disease on people and governments, reducing pressures on healthcare and social care systems and enabling people to pursue productive activities including education and employment. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Ils contribuent à réduire les charges sociales, psychologiques et financières des maladies pesant sur les personnes et les pouvoirs publics, atténuent les pressions qui s'exercent sur les systèmes socio-sanitaires et évitent aux individus de devoir interrompre leurs activités productives, en ce compris l'éducation et le travail. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The centre dot represent one person affected by a disease. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Le point situé au centre représente une personne touchée par une malade. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Vaccination programmes have wider societal benefits. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les programmes de vaccination présentent des avantages plus importants sur le plan sociétal. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Vaccination can eliminate diseases or reduce the number of new cases significantly. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination peut éradiquer des maladies ou réduire le nombre de nouveaux cas de manière significative. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The connected dots indicate the maximum and minimum number of previously uninfected and unvaccinated people who could get infected by a person with the disease. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les points reliés indiquent les nombres maximal et minimal d'individus précédemment non infectés et non vaccinés qui pourraient être infectés par une personne atteinte de la maladie. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Vaccination also prevents the development of certain types of pre-cancerous growths and cancers, for example: </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination permet également de prévenir le développement de certains types de tumeurs précancéreuses et de cancers, par exemple: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>smallpox is now eradicated worldwide; </seg></tuv>
+      <tuv xml:lang="fr"><seg>la variole a été complètement éradiquée au niveau mondial; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Vaccination helps prevent the spread of disease in communities. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination contribue à prévenir la propagation d'une maladie au sein des communautés. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When a large percentage of a population is vaccinated, infectious diseases cannot easily spread. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Lorsque le pourcentage de personnes vaccinées au sein d'une population est élevé, les maladies infectieuses se propagent moins facilement. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Vaccination is the best way to acquire immunity against vaccine-preventable diseases, as opposed to immunity attained by getting the disease. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination est le meilleur moyen d'acquérir une immunité contre des maladies évitables par la vaccination, en regard de l'immunité acquise en contractant la maladie. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>vaccinating against humanpapilloma virus (HPV) can help prevent cervical and other cancers caused by HPV infection; </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination contre le papillomavirus humain (HPV) peut contribuer à prévenir les cancers du col de l'utérus et d'autres cancers causés par une infection à HPV; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>vaccinating against hepatitis B can help prevent liver cancer caused by long-term hepatitis B infection. </seg></tuv>
+      <tuv xml:lang="fr"><seg>la vaccination contre l'hépatite B peut contribuer à prévenir le cancer du foie causé par l'hépatite B chronique. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Vaccination prevents people from getting the symptoms of the disease, which can be severe. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination permet au sujets vaccinés de ne pas développer les symptômes de la maladie, qui peuvent être sévères. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Benefits of vaccinating </seg></tuv>
+      <tuv xml:lang="fr"><seg>Fiches d'information sur les maladies </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For more information about national vaccination programmes, see the ECDC vaccine scheduler and visit the official websites on immunisation of the EU/EEA countries here . </seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour en savoir plus sur les maladies évitables par la vaccination, consultez les fiches d'information disponibles ci-dessous. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sometimes, more than one vaccine may be given at once to protect against several infectious diseases. </seg></tuv>
+      <tuv xml:lang="fr"><seg>De nos jours, plusieurs maladies sont évitables grâce à la vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In addition, vaccines to protect against specific diseases are sometimes recommended for ‘high-risk' groups, such as people with long-term health conditions or people planning to travel to other parts of the world. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La vaccination réduit également le risque de propagation des maladies entre les membres d'une même famille, les camarades de classe ou collègues, les amis, les voisins et d'autres personnes de la communauté. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is based on local conditions, such as how common the disease is, as well as economic factors. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Chaque fiche d'information présente des faits essentiels à propos d'une maladie, en précise globalement les symptômes, les complications, le mode de propagation, les personnes à risque, les mesures permettant de la prévenir et les traitements disponibles. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Some vaccines protect against only one disease, but others protect against more than one. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Des recherches sont en cours en vue de mettre au point des vaccins contre un plus grand nombre de maladies. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Combined use of vaccines is well established and based on scientific studies on its benefits and safety. </seg></tuv>
+      <tuv xml:lang="fr"><seg>La coqueluche est une maladie très contagieuse, d'origine bactérienne, qui touche les poumons et les voies respiratoires. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Most national vaccination programmes in the EU/EEA include vaccines for up to twenty diseases which are given to people at specific ages. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Cinq fiches d'information concernant des maladies évitables par la vaccination sont actuellement disponibles. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Situation of measles in the EU </seg></tuv>
+      <tuv xml:lang="fr"><seg>La situation relative à la rougeole dans l'UE </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The data is based on information submitted and verified by Member States through ECDC's disease surveillance system. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles se fondent sur les informations fournies et vérifiées par les États membres à travers le système de surveillance des maladies de l'ECDC. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The ECDC Surveillance Atlas of Infectious Diseases also provides data on other vaccine-preventable diseases, such as diphtheria, pertussis and rubella. </seg></tuv>
+      <tuv xml:lang="fr"><seg>L'Atlas de surveillance des maladies infectieuses de l'ECDC fournit également des données sur d'autres maladies à prévention vaccinale, telles que la diphtérie, la coqueluche et la rubéole. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It provides options for the user to filter information by criteria such as disease and time-period. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Il offre aux utilisateurs des possibilités de filtrer les informations en fonction de critères tels que la maladie et la période d'incubation. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Below are the most recent data on measles outbreaks in EU Member States. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les données les plus récentes concernant les épidémies de rougeole dans les États membres figurent ci-dessous. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The last known naturally occurring case was recorded in 1977 in Somalia. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Le dernier cas de contamination naturelle connu a été enregistré en Somalie en 1977. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The first vaccine was developed in the 18th century in the United Kingdom. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Le premier vaccin a été conçu au Royaume-Uni au XVIIIe siècle. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When looking at health-related information, it can be difficult to judge the quality and accuracy of information found. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Si l'on examine les informations relatives à la santé, il peut être difficile de juger de la qualité et de l'exactitude des informations que l'on trouve. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They initially occur at night and then become more frequent during the day and may recur for one to two months. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles se produisent initialement la nuit puis deviennent plus fréquentes en journée et peuvent durer un à deux mois. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The vaccine is continuously monitored to ensure it remains safe and effective. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Le vaccin fait ensuite l'objet d'un suivi constant afin de garantir qu'il reste sûr et efficace. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Vaccine Safety Net (VSN) is a global network of websites, established by the World Health Organization, that provides reliable information on vaccine safety. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Le réseau pour la sécurité des vaccins (VSN) est un réseau mondial de sites web créé par l'Organisation mondiale de la santé, qui fournit des informations fiables sur la sécurité des vaccins. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Official websites from EU and EEA countries </seg></tuv>
+      <tuv xml:lang="fr"><seg>Sites web officiels des pays de l'UE et de l'EEE </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>People may wonder where to find accurate information, who is behind the development of the information they find, and also if the information is supported by scientific evidence. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles peuvent se demander où trouver des informations exactes, qui est à l'origine de l'évolution des informations qu'elles trouvent, et également si ces informations sont étayées par des preuves scientifiques. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Adolescents, adults, or children partially immunised generally have milder or somewhat different symptoms. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les adolescents, les adultes ou les enfants partiellement immunisés présentent généralement des symptômes plus légers ou quelque peu différents. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Only then, after approval, can a vaccine be manufactured, marketed and used to protect people. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Ce n'est qu'après autorisation qu'un vaccin peut être produit, commercialisé et utilisé pour protéger la population. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They mainly target diseases caused by viruses or bacteria. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Ils ciblent essentiellement des maladies causées par des virus ou des bactéries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This section provides links to the websites of other health organisations both at national and international level, in order to facilitate access to trusted sources of information, such as: </seg></tuv>
+      <tuv xml:lang="fr"><seg>Cette section contient des liens vers les sites web d'autres organisations sanitaires, tant au niveau national qu'international, afin de faciliter l'accès à des sources d'information fiables, telles que: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A third or fourth dose is recommended at 11-24 months of age, and another dose between three and seven years of age. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Une troisième ou quatrième dose est recommandée entre onze et vingt-quatre mois, et une autre entre trois et sept ans. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Combined use of vaccines is well established and based on scientific studies on its benefits and safety. </seg></tuv>
+      <tuv xml:lang="fr"><seg>L'administration de vaccins combinés est bien établie et se fonde sur des études scientifiques relatives à ses bénéfices et à sa sécurité. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is caused by bacteria in the mouth, nose and throat of an infected person. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle est due à une bactérie présente dans la bouche, le nez et la gorge de la personne infectée. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Note: The information contained in this factsheet is intended for the purpose of general information and should not be used as a substitute for the individual expertise and judgement of a healthcare professional. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Remarque: les informations contenues dans la présente fiche sont destinées à des fins d'information générale et ne sauraient se substituer à l'expertise et à l'avis d'un professionnel de la santé. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>More factsheets will be included at a later stage. </seg></tuv>
+      <tuv xml:lang="fr"><seg>D'autres fiches d'information seront mises à disposition ultérieurement. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>With all the information that is available on the internet and circulating on social media on vaccination, people may sometimes get lost. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Avec toutes les informations disponibles sur l'internet et circulant sur les réseaux sociaux concernant la vaccination, les personnes ne s'y retrouvent pas forcément. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Serious side effects are very rare. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les effets indésirables graves sont très rares. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Decisions on vaccines in use in different European countries </seg></tuv>
+      <tuv xml:lang="fr"><seg>Décisions relatives aux vaccins utilisés dans différents pays européens </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To learn more about the diseases that can be prevented by vaccination, consult the factsheets available below. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour en savoir plus sur les maladies évitables par la vaccination, consultez les fiches d'information disponibles ci-dessous. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The scientific experts evaluating vaccines always consider the benefits and any potential risks very carefully, in particular because vaccines are given to healthy people. </seg></tuv>
+      <tuv xml:lang="fr"><seg>Les experts scientifiques qui évaluent les vaccins étudient toujours très attentivement les bénéfices et risques potentiels de ces derniers, en particulier parce que les vaccins seront administrés à des individus sains. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>After this phase, the coughing fits become less frequent and less severe, and the infant gradually gets better (this can take up to three months). </seg></tuv>
+      <tuv xml:lang="fr"><seg>Après cette phase, les quintes de toux sont de moins en moins fréquentes et de moins en moins intenses et l'état de santé du nourrisson s'améliore progressivement (la guérison peut prendre jusqu'à trois mois). </seg></tuv>
+    </tu>
+    </body></tmx>
