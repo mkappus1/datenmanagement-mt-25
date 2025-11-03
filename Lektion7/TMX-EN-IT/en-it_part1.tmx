@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4"><header creationdate="Mon Nov  7 13:28:33 2022" srclang="en" adminlang="en" o-tmf="unknown" segtype="sentence" creationtool="Uplug" creationtoolversion="unknown" datatype="PlainText" />
+  <body><tu>
+      <tuv xml:lang="en"><seg>"The richness of the interior of the french style building at the beginning of the century by Joaquim Sotto Maior takes us back to the art of the joint use o Metal, Timber and plaster. </seg></tuv>
+      <tuv xml:lang="it"><seg>"Questo edificio di stile francese, fu costruito nei primi anni del Novecento da Joaquim Sotto Maior. La sua ricchezza interna ci rimanda all'arte del saper coniugare materiali diversi quali metallo, legno e stucchi. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The different rooms provide us with ecstatic visions : Crystal and bronze chandeliers, clocks, candlesticks, statues, and porcelain and convases of such famous artists as Dórdio Gomes, Joaquim Lopes and António RAMALHO. </seg></tuv>
+      <tuv xml:lang="it"><seg>Le diverse sale offrono interni riccamente decorati, in cui si possono ammirare lampadari di cristallo e bronzo, orologi, candelieri, statuette, oltre a porcellane e tele di artisti consacrati, quali Dórdio Gomes, Joaquim Lopes e António RAMALHO. </seg></tuv>
+    </tu>
+    </body></tmx>

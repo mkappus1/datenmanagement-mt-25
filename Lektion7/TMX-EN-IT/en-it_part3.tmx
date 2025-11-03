@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4"><header creationdate="Mon Nov  7 13:28:33 2022" srclang="en" adminlang="en" o-tmf="unknown" segtype="sentence" creationtool="Uplug" creationtoolversion="unknown" datatype="PlainText" />
+  <body><tu>
+      <tuv xml:lang="en"><seg>It pertained to the House of Palmela, that purchased the property in 1840. </seg></tuv>
+      <tuv xml:lang="it"><seg>Il appartint à la Casa Palmela, qui l'acheta en 1840. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>5. The Traditional Weaving Workshop (Largo Vasco da Gama) Weaving is one of this municipality's traditional activities. </seg></tuv>
+      <tuv xml:lang="it"><seg>5. Außenstelle traditionelle Weberei (Largo Vasco da Gama) </seg></tuv>
+    </tu>
+    </body></tmx>

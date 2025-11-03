@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4"><header creationdate="Mon Nov  7 13:28:33 2022" srclang="en" adminlang="en" o-tmf="unknown" segtype="sentence" creationtool="Uplug" creationtoolversion="unknown" datatype="PlainText" />
+  <body><tu>
+      <tuv xml:lang="en"><seg>"What used to be the Quinta de (Estate of) Santiago was built in 1896 as a summer home for the Santiago de Carvalho e Sousa family. </seg></tuv>
+      <tuv xml:lang="it"><seg>"Die ehemalige Quinta de Santiago wurde 1896 als Sommerdomizil der Familie Santiago de Carvalho e Sousa errichtet. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>But the adventure of discovery is not limited to what can be found in the Visionarium. </seg></tuv>
+      <tuv xml:lang="it"><seg>Pero la aventura del descubrimiento no se limita al Visionarium. </seg></tuv>
+    </tu>
+    </body></tmx>
