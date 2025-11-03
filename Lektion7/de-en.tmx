@@ -1,0 +1,1973 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationdate="Mon Nov  7 14:15:00 2022"
+          srclang="de"
+          adminlang="de"
+          o-tmf="unknown"
+          segtype="sentence"
+          creationtool="Uplug"
+          creationtoolversion="unknown"
+          datatype="PlainText" />
+  <body>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei dieser Person besteht auch das Risiko von Komplikationen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The person is also at risk of complications. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dies wird das Antigen genannt. </seg></tuv>
+      <tuv xml:lang="en"><seg>This is called the antigen. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Immunität hält in der Regel über mehrere Jahre an, mitunter ein ganzes Leben lang. </seg></tuv>
+      <tuv xml:lang="en"><seg>Immunity usually lasts for years, and sometimes for a lifetime. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie Impfstoffe wirken </seg></tuv>
+      <tuv xml:lang="en"><seg>How vaccines work </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese „Gemeinschaftsimmunität" kann nur funktionieren, wenn genügend Personen geimpft sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>This ‘ community immunity ' can only work if enough people are vaccinated. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die durch eine Impfung erworbene Immunität schützt nicht nur die immunisierte Person, sondern auch nicht geimpfte Personen in der Gemeinschaft, wie Kinder, die zu jung sind, um geimpft zu werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Immunity through vaccination protects not only the immunised individual but also protects unvaccinated people in the community, such as infants who are too young to be vaccinated. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Länge dieses Zeitraums hängt von der Krankheit und dem Impfstoff ab. </seg></tuv>
+      <tuv xml:lang="en"><seg>The length of time varies by disease and by vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn die Person später mit dem tatsächlichen infektiösen Virus oder Bakterium in Kontakt kommt, wird sich ihr Immunsystem daran „erinnern". </seg></tuv>
+      <tuv xml:lang="en"><seg>Later, if the person comes into contact with the actual infectious virus or bacterium, their immune system will ‘remember' it. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe enthalten stark abgeschwächte Viren oder eine inaktivierte (abgetötete) Form eines Virus oder Bakteriums, das in der Regel eine Krankheit verursacht, oder einen kleinen Bestandteil des Virus oder Bakteriums. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines contain a greatly weakened or an inactivated (killed) form of a virus or bacterium that usually causes a disease, or a small part of the virus or bacterium. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jedes Virus bzw. jedes Bakterium löst eine bestimmte Reaktion im Immunsystem aus, das eine spezielle Art von Zellen im Blut, im Knochenmark und im gesamten Körper - unter anderem T-Zellen und B-Zellen - umfasst. </seg></tuv>
+      <tuv xml:lang="en"><seg>Each virus and bacterium triggers a unique response in the immune system involving a specific set of cells in the blood, in the bone marrow and all over the body, called T-cells, B-cells, among others. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Antikörper sind spezielle Proteine, die dabei helfen, den Infektionserreger abzutöten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Antibodies are special proteins that help kill the infectious agent. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn der Impfstoff einer Person verabreicht wird, erkennt ihr Immunsystem das Antigen als „fremd". </seg></tuv>
+      <tuv xml:lang="en"><seg>When a person is given the vaccine, their immune system recognises the antigen as ‘foreign'. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ein Impfstoff stimuliert eine Immunantwort und sorgt dafür, dass sich der Körper an eine bestimmte Krankheit „erinnert", ohne selbst die Krankheit zu verursachen. </seg></tuv>
+      <tuv xml:lang="en"><seg>A vaccine stimulates an immune response, and a ‘memory' of the body to a specific disease, without causing the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es wird dann schnell die notwendigen Antikörper bilden und die entsprechenden Immunzellen aktivieren, um das Virus oder Bakterium abzutöten und die Person somit vor der Krankheit zu schützen. </seg></tuv>
+      <tuv xml:lang="en"><seg>It will then quickly produce the right antibodies and activate the right immune cells to kill the virus or bacterium, protecting the person from the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn eine Person jedoch gegen eine Krankheit immun wird, indem sie die Krankheit bekommt, kann sie andere nicht geimpfte Personen anstecken. </seg></tuv>
+      <tuv xml:lang="en"><seg>In contrast, a person who becomes immune by getting the disease can expose other unvaccinated people to the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Immunzellen werden sozusagen darauf trainiert, den Krankheitserreger abzutöten und Antikörper dagegen zu bilden. </seg></tuv>
+      <tuv xml:lang="en"><seg>The immune cells are trained to kill and make antibodies against the disease-causing agent. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Immunantwort </seg></tuv>
+      <tuv xml:lang="en"><seg>Twitter Facebook Linked In Mail </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es handelt sich um die weltweit häufigste sexuell übertragbare Infektion. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is the most common sexually transmitted infection worldwide. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Mehr Informationen erhalten Sie auf der ECDC-Website: https://www.ecdc.europa.eu/en/human-papillomavirus/factsheet </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information check the ECDC website: https://www.ecdc.europa.eu/en/human-papillomavirus/factsheet </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Solche Früherkennungsprogramme stehen Frauen gemäß den nationalen Empfehlungen zur Verfügung. </seg></tuv>
+      <tuv xml:lang="en"><seg>This is offered to women in accordance with national recommendations. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Manchmal jedoch kann eine HPV-Infektion fortbestehen und nach einigen Jahren einige der unten genannten Komplikationen hervorrufen. </seg></tuv>
+      <tuv xml:lang="en"><seg>However, sometimes the HPV infection can persist and cause after some years some of the complications listed below. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es gibt mehr als 100 Typen des HP-Virus. </seg></tuv>
+      <tuv xml:lang="en"><seg>There are more than 100 types of HPV viruses. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Rund 40 dieser Virentypen können die Geschlechtsorgane infizieren. </seg></tuv>
+      <tuv xml:lang="en"><seg>About 40 of them can infect the genitals. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Andere HPV-assoziierte Krebsarten sind ebenfalls besser behandelbar, wenn sie frühzeitig diagnostiziert und behandelt werden, für sie stehen jedoch keine spezifischen Vorsorgeprogramme zur Verfügung. </seg></tuv>
+      <tuv xml:lang="en"><seg>Other HPV-related cancers are also more treatable when diagnosed and treated early, but there are no specific screening programmes for these. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die HPV-Routine-Impfung gemäß dem nationalen Impfprogramm findet in der Regel im Alter zwischen 9 und 14 Jahren statt. </seg></tuv>
+      <tuv xml:lang="en"><seg>Routine HPV vaccination usually takes place between 9 and 14 years of age, in accordance with the national vaccination schedule. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es ist keine Behandlung des Virus selbst möglich, jedoch können die durch den HP-Virus hervorgerufenen Probleme auf unterschiedliche Art und Weise behandelt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>There is no treatment for the virus itself, but the health problems caused by HPV can be treated in different ways. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zumeist verschwindet eine HPV-Infektion von allein ohne offensichtliche Symptome oder Probleme. </seg></tuv>
+      <tuv xml:lang="en"><seg>In most cases, an HPV infection disappears on its own without causing any obvious symptoms or problems. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Genitalwarzen können mit Arzneimitteln oder durch einen operativen Eingriff behandelt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Genital warts can be treated using medication or by surgery. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Über die jeweiligen Behandlungsoptionen sollte mit einem Gesundheitsdienstleister beraten werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>A healthcare provider should be consulted for advice on the specific treatment options. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei jedem sexuell aktiven Menschen besteht die Gefahr, sich mit dem HPV anzustecken. </seg></tuv>
+      <tuv xml:lang="en"><seg>Anyone who is sexually active is at risk of contracting HPV. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>HPV wird durch direkten Kontakt, meist sexuellem Kontakt, mit einer Person, die den Virus trägt, übertragen. </seg></tuv>
+      <tuv xml:lang="en"><seg>HPV is transmitted by direct contact, mainly sexual, with someone who has the virus. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine HPV-Infektion ist eine Virus-Infektion, die hauptsächlich durch direkten Kontakt mit einer infizierten Person sexuell übertragen wird. </seg></tuv>
+      <tuv xml:lang="en"><seg>Human papillomavirus (HPV) infection is a viral infection that is mainly sexually transmitted by direct contact with an infected person. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Genital- und Analwarzen </seg></tuv>
+      <tuv xml:lang="en"><seg>genital and anal warts </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine Impfung von Mädchen und Jungen gegen HPV kann HPV-Infektionen und damit HPV-assoziierten Erkrankungen bei beiden Geschlechtern, u. a. Genital- und Analwarzen, Gebärmutterhalskrebs und anderen durch HPV hervorgerufenen Krebsarten, vorbeugen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination of girls and boys against HPV can prevent HPV infections and consequently HPV-related diseases in both sexes, including genital and anal warts, cervical cancer and other cancers caused by HPV. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Mindestens 14 HPV-Typen sind als „Hochrisiko"-Typen eingestuft und können Krebs, wie etwa Gebärmutterhalskrebs bei Frauen, verursachen. </seg></tuv>
+      <tuv xml:lang="en"><seg>At least 14 HPV types, classified as ‘high risk', can cause cancer, such as cervical cancer in women. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Gebärmutterhalskrebs oder andere Krebsarten (z. B. Vulvakarzinom, Vaginalkrebs, Analkrebs, Peniskarzinom sowie einige Krebsarten des Kopfes und des Halses) </seg></tuv>
+      <tuv xml:lang="en"><seg>cervical or other types of cancer (e.g. vulvar, vaginal, anal penile, and some cancers of the head and the neck) </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Gebärmutterhalskrebs ist bei Frauen zwischen 15 und 44 Jahren in Europa nach Brustkrebs die zweithäufigste Krebsart. </seg></tuv>
+      <tuv xml:lang="en"><seg>Cervical cancer (cancer of the neck of the womb) is the most common cancer after breast cancer to affect women aged 15-44 years in Europe (1). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie kann HPV vorgebeugt werden? </seg></tuv>
+      <tuv xml:lang="en"><seg>How can HPV be prevented? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Verschwindet eine HPV-Infektion nicht von allein, kann sie nachstehende Folgen haben: </seg></tuv>
+      <tuv xml:lang="en"><seg>If HPV does not go away it may cause: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Gebärmutterhalskrebs und ein als „präkanzerös" beschriebener Gebärmutterhals kann durch die Gebärmutterhalskrebsvorsorge frühzeitig erkannt und behandelt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Cervical cancer and tissue in the cervix that is described as ‘precancerous' can be identified early through cervical cancer screening and treated. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie wird HPV behandelt? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is HPV treated? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die „Hochrisiko"-Typen des HPV können außerdem Anal- und Genitalkrebs und einige Krebsarten des Kopfes und des Halses bei Frauen und Männern verursachen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The ‘high risk' HPV types can also cause anal and genital cancers, and some cancers of the head and neck, in both men and women. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Verwendung von Kondomen ist zur Vorbeugung einer Übertragung des Virus nicht zu 100 % wirksam, denn HPV kann gelegentlich vom Kondom nicht geschützte Umgebungshautpartien infizieren. </seg></tuv>
+      <tuv xml:lang="en"><seg>The use of condoms is not 100% effective in preventing the transmission of the virus. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Komplikationen kann es mit HPV geben? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the complications of HPV? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die „Niedrigrisiko"-Typen des HPV können zu Genital- und Analwarzen führen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The 'low risk' HPV types can cause genital and anal warts. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei wem besteht ein HPV-Risiko? </seg></tuv>
+      <tuv xml:lang="en"><seg>Who is at risk of HPV? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Symptome zeigen sich bei einer HPV-Infektion? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the symptoms of HPV? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie verbreitet sich HPV? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is HPV? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie können das immer noch nachholen. </seg></tuv>
+      <tuv xml:lang="en"><seg>They can still catch up. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die meisten Impfstoffe bieten eine lebenslange Immunität. </seg></tuv>
+      <tuv xml:lang="en"><seg>Most vaccines provide lifelong immunity. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Manche Menschen haben möglicherweise eine Impfung versäumt oder die empfohlene Anzahl an Dosen nicht erhalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some people may have missed a vaccination or did not get the recommended number of doses. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ist jemand nicht sicher, ob er gegen eine bestimmte Krankheit geimpft ist, so kann er in der Regel eine zusätzliche Dosis bekommen, ohne das Risiko schwerwiegender Nebenwirkungen zu erhöhen (1). </seg></tuv>
+      <tuv xml:lang="en"><seg>If a person does not know if they have been vaccinated against a certain disease they can usually get an extra dose without increasing the risk of serious side effects (1). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nachhol- und Auffrischimpfung </seg></tuv>
+      <tuv xml:lang="en"><seg>Catch-up vaccination and boosters </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Aufgrund der steigenden Zahl von Maserfällen bei Jugendlichen und jungen Erwachsenen gibt es beispielsweise in einer Reihe von EU/EWR-Ländern Nachholimpfprogramme für Personen, die, als sie jünger waren, möglicherweise eine Masernimpfung versäumt haben, oder zu alt sind, um als Kind eine Impfung erhalten zu haben. </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, due to an increasing number of measles cases among teenagers and young adults, catch-up programmes exist in a number of EU/EEA countries for people who may have missed the measles vaccination when they were younger or are too old to have received it as a child. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Einige Impfstoffe verzeichnen jedoch eine mit der Zeit abnehmende Immunität, was als „schwindende Immunität" bezeichnet wird. </seg></tuv>
+      <tuv xml:lang="en"><seg>However, some vaccines provide immunity that decreases over time, known as ‘waning immunity'. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In einigen Ländern werden Auffrischungsdosen in regelmäßigen Abständen während der Adoleszenz und im Erwachsenenalter empfohlen, um die Immunität über einen längeren Zeitraum aufrechtzuerhalten, zum Beispiel gegen: </seg></tuv>
+      <tuv xml:lang="en"><seg>Some countries recommend booster doses at regular intervals during adolescence and adulthood, in order to maintain immunity over a longer period of time, against for example: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jeder Mensch sollte überprüfen, ob er die landesweit empfohlenen Impfungen erhalten hat, und einen Arzt konsultieren, falls ein Nachholbedarf besteht. </seg></tuv>
+      <tuv xml:lang="en"><seg>Everyone should check if they have had the nationally recommended vaccinations, and consult a medical professional in case any catch-ups are needed. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei einigen Krankheiten, wie z.B. Windpocken und Röteln, ist es auch möglich, einen Test zur Überprüfung der Immunabwehr einer Person vorzunehmen. </seg></tuv>
+      <tuv xml:lang="en"><seg>For some diseases, such as varicella (chickenpox) and rubella, it is also possible to do a test to check if the person is immune. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu kann es erforderlich sein, Impfprotokolle einzusehen bzw. Impfpläne, die zum Zeitpunkt der Geburt einer Person gegolten haben. </seg></tuv>
+      <tuv xml:lang="en"><seg>This may involve looking at vaccination records or the vaccination schedules in place when the person was born. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Für bestimmte Krankheiten können Nachholimpfprogramme organisiert werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Catch-up vaccination programmes for specific diseases may be organised. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine Impfung ist die einzige Möglichkeit, einen direkten Schutz gegen Tetanus zu gewährleisten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination is the only way to ensure direct protection against tetanus. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zum Beispiel kann Tetanus aufgrund von häufigen Verletzungen, einschließlich Hunde- oder Katzenbissen, auftreten. </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, tetanus can be encountered due to common injuries, including dog or cat bites. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Um beispielsweise die Herdenimmunität gegen Masern zu gewährleisten, empfehlen die Gesundheitsbehörden, dass 95 % der Bevölkerung mit zwei Dosen des Impfstoffs gegen Masern (dem MMR-Impfstoff, der vor Masern, Mumps und Röteln schützt) geimpft werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, to ensure community immunity against measles, public health authorities recommend that 95% of the population are vaccinated with two doses of the vaccine against measles (the MMR vaccine, which protects against measles, mumps and rubella). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Auf diese Weise schützen Impfstoffe indirekt andere Menschen, die anfällig für Krankheiten sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>In this way, vaccines indirectly protect others who are vulnerable to disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören Babys, Kinder, ältere Menschen, Menschen mit schwachem Immunsystem, Krebspatienten und Menschen, die aus medizinischen Gründen nicht geimpft werden können. </seg></tuv>
+      <tuv xml:lang="en"><seg>These include babies, children, the elderly, people with weak immune systems, cancer patients, and people who cannot be vaccinated for medical reasons. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das bedeutet, dass Menschen, die nicht geimpft werden können, weil sie zum Beispiel zu jung oder allergisch gegen Impfstoffkomponenten sind, davon profitieren, dass andere geimpft werden, weil sich die Krankheit nicht ohne weiteres in der Bevölkerung ausbreiten kann. </seg></tuv>
+      <tuv xml:lang="en"><seg>It means that people who cannot be vaccinated, for instance because they are too young or allergic to vaccine components, benefit from others being vaccinated, because the disease cannot easily spread in the community. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen schützen die geimpften Personen und andere in ihrem Umfeld, die anfällig für die Krankheiten sind, indem sie das Risiko der Ausbreitung von Krankheiten unter den Familienmitgliedern, Mitschülern oder Kollegen, Freunden, Nachbarn und anderen Menschen verringert. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination protects the vaccinated persons and those around them who are vulnerable to the diseases, reducing the risk of diseases spreading among family members, school mates or colleagues, friends, neighbours and other people in the community. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Darüber hinaus tragen Impfprogramme dazu bei, die mit den Krankheiten einhergehende soziale, psychologische und finanzielle Belastung der Menschen und des Staats zu verringern, indem sie den Druck auf das Gesundheitssystem und das Sozialwesen reduzieren und den Menschen die Möglichkeit geben, produktiven Tätigkeiten wie Ausbildung und Beschäftigung nachzugehen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Furthermore, immunisation programmes help reduce the social, psychological and financial burdens of disease on people and governments, reducing pressures on healthcare and social care systems and enabling people to pursue productive activities including education and employment. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dies bezeichnet man als kollektiven Impfschutzes (sogenannte Herdenimmunität). </seg></tuv>
+      <tuv xml:lang="en"><seg>This is known as 'community immunity' (also referred to as 'herd immunity'). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen schützen den Menschen vor Krankheiten, die schwere gesundheitliche Folgen haben... </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination protects individuals against diseases that could have serious consequences for... </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen: Vorteile für die Gemeinschaft </seg></tuv>
+      <tuv xml:lang="en"><seg>Benefits of vaccination for the community </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn genügend Menschen in der Bevölkerung immun gegen eine Infektionskrankheit sind, ist es unwahrscheinlich, dass sich die Krankheit von Mensch zu Mensch ausbreitet. </seg></tuv>
+      <tuv xml:lang="en"><seg>When enough people in a population are immune to an infectious disease, the disease is then unlikely to spread from person to person. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Herdenimmunität tritt auf, wenn genügend Menschen in einer Bevölkerung gegen eine Infektionskrankheit immun sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>Community immunity occurs when enough people in a population are immune to an infectious disease </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen: Vorteile für jeden Menschen </seg></tuv>
+      <tuv xml:lang="en"><seg>Benefits of vaccination for individuals </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zeitpunkt der Impfung </seg></tuv>
+      <tuv xml:lang="en"><seg>When to vaccinate </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei einigen Infektionskrankheiten können sich die Menschen jedoch nicht auf die Herdenimmunität verlassen. </seg></tuv>
+      <tuv xml:lang="en"><seg>However, people cannot rely on community immunity for some infectious diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Bedarf ergreifen die EMA und die anderen europäischen Aufsichtsbehörden Maßnahmen. </seg></tuv>
+      <tuv xml:lang="en"><seg>When needed, EMA and the other European regulators take action. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Meldungen von Patienten, Eltern und Gesundheitspersonal; </seg></tuv>
+      <tuv xml:lang="en"><seg>reports from patients, parents and healthcare professionals; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu wertet sie zahlreiche Datenquellen aus, z. B.: </seg></tuv>
+      <tuv xml:lang="en"><seg>It analyses many sources of data, including: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der Prozess zur Überwachung der Sicherheit und Steuerung der Risiken von Arzneimitteln wird als „Pharmakovigilanz" bezeichnet. </seg></tuv>
+      <tuv xml:lang="en"><seg>The process of monitoring the safety and managing the risks of medicines is called ‘pharmacovigilance'. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Informationen von anderen Aufsichtsbehörden. </seg></tuv>
+      <tuv xml:lang="en"><seg>information shared by other regulators. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>So wird sichergestellt, dass etwaige Risiken so früh wie möglich identifiziert und gegenfalls nötige maßnahmen eingeleitet werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>This ensures that any possible risks are detected and managed as soon as possible. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die EMA überprüft neue Informationen zur Sicherheit sämtlicher Arzneimittel, die in Europa verfügbar sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>EMA checks new information on the safety of all vaccines available in Europe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sobald ein Impfstoff zur Verwendung zugelassen wird, überwachen die nationalen Behörden der EU-/EWR-Länder und die Europäische Arzneimittel-Agentur (EMA) die Nebenwirkungen, die bei Personen auftreten, die den Impfstoff erhalten haben. </seg></tuv>
+      <tuv xml:lang="en"><seg>Once a vaccine is approved for use, EU/EEA national authorities and the European Medicines Agency (EMA), continually monitor side effects in people who have received the vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen unter: </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information, see: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Patienten, Gesundheitspersonal und pharmazeutische Unternehmen sollten alle Verdachtsfälle von Nebenwirkungen bei ihrer nationalen Arzneimittelbehörde melden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Patients, healthcare professionals and pharmaceutical companies should report all suspected side effects to their national medicines regulatory authority. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen: Überwachung der Sicherheit und Meldung von Nebenwirkungen </seg></tuv>
+      <tuv xml:lang="en"><seg>Monitoring vaccine safety and reporting side effects </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese reichen von der Herausgabe eines aktualisierten Leitfadens für Angehörige der Gesundheitsberufe bis hin zur Beschränkung der Anwendung des Impfstoffes bei bestimmten Gruppen. </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, they can provide updated guidance to healthcare workers, or even restrict the use of a vaccine in certain groups. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die EMA nimmt eine sorgfältige Bewertung aller Verdachtsfälle von Nebenwirkungen vor, um festzustellen, ob ein kausaler Zusammenhang mit dem Impfstoff besteht. </seg></tuv>
+      <tuv xml:lang="en"><seg>EMA carefully assesses suspected side effects to determine if there is a causal link with the vaccine or not. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>So kann ausgeschlossen werden, dass die Nebenwirkungen zufallsbedingt sind oder dass die verursachenden Faktoren nichts mit dem Impfstoff an sich zu tun haben. </seg></tuv>
+      <tuv xml:lang="en"><seg>This helps to rule out the possibility that it was a coincidence or that it was caused by factors unrelated to the vaccine itself. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dabei kann es sich beispielsweise um eine Erkrankung oder Angst vor der Impfung handeln. </seg></tuv>
+      <tuv xml:lang="en"><seg>These could be due to an illness or anxiety over being given the vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen zur Meldung von Nebenwirkungen sind der Fachinformation, der Packungsbeilage oder der Europäischen Datenbank gemeldeter Verdachtsfälle von Arzneimittelnebenwirkungen zu entnehmen. </seg></tuv>
+      <tuv xml:lang="en"><seg>More information on how to report suspected side effects can be found in the prescribing information or package leaflet or the European database of suspected adverse drug reaction reports . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Informationen zu den gemeldeten Verdachtsfällen von Nebenwirkungen sind in der Europäischen Datenbank gemeldeter Verdachtsfälle von Arzneimittelnebenwirkungen öffentlich zugänglich. </seg></tuv>
+      <tuv xml:lang="en"><seg>Information on these reported suspected side effects is publicly available on the European database of suspected adverse drug reaction reports . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die nationalen Regierungen berücksichtigen Faktoren wie ihr Gesundheitssystem, ihr Rechtssystem und ihre kulturellen Normen. </seg></tuv>
+      <tuv xml:lang="en"><seg>National governments take account of factors such as their health systems, legal systems and cultural norms. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Obligatorische oder empfohlene Impfung </seg></tuv>
+      <tuv xml:lang="en"><seg>Mandatory or recommended vaccination </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfpläne in der EU/im EWR </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination schedules in the EU/EEA </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Informationen darüber, in welchen Ländern eine Impfpflicht besteht, finden Sie im Impfplaner . </seg></tuv>
+      <tuv xml:lang="en"><seg>Information on which countries have mandatory vaccination can be found in the Vaccine Scheduler . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In 12 EU/EWR-Ländern ist die Impfung von Kindern gegen bestimmte Krankheiten obligatorisch, wenngleich unterschiedliche Impfstoffe in diesen Ländern vorgeschrieben sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>In 12 EU/EEA countries, vaccinating children against some diseases is mandatory, although different vaccines are required as mandatory in those countries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jedes EU/EWR-Land entscheidet, ob die Impfung in seinem Hoheitsgebiet obligatorisch oder freiwillig ist. </seg></tuv>
+      <tuv xml:lang="en"><seg>Each EU/EEA country decides if vaccination is mandatory or voluntary in its territory. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die meisten EU/EWR-Länder bieten Impfungen auf der Grundlage von Empfehlungen an. </seg></tuv>
+      <tuv xml:lang="en"><seg>Most EU/EEA countries offer vaccination on a recommended basis. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jeder EU-/EWR-Staat ist für seine eigene Gesundheitspolitik zuständig... </seg></tuv>
+      <tuv xml:lang="en"><seg>Each EU/EEA country is responsible for its own national public health policy, including... </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jedes EU-/EWR-Land führt sein eigenes Impfprogramm durch. </seg></tuv>
+      <tuv xml:lang="en"><seg>Each EU/EEA country implements its own immunisation programme. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Durch obligatorische und nicht obligatorische Impfungen haben die EU/EWR-Länder hohe Durchimpfungsraten erreicht. </seg></tuv>
+      <tuv xml:lang="en"><seg>EU/EEA countries have achieved high vaccination coverage rates through mandatory and non-mandatory vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Faktenblätter </seg></tuv>
+      <tuv xml:lang="en"><seg>More factsheets </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen finden Sie auf der ECDC-Website: https://www.ecdc.europa.eu/en/pertussis/facts </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information check the ECDC website: https://www.ecdc.europa.eu/en/pertussis/facts </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Hinweis: Die in diesem Faktenblatt enthaltenen Informationen sind zur allgemeinen Information bestimmt und sollten die individuelle Beurteilung durch einen Angehörigen der Gesundheitsberufe nicht ersetzen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Note: The information contained in this factsheet is intended for the purpose of general information and should not be used as a substitute for the individual expertise and judgement of a healthcare professional. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In der Regel treten die Symptome 7 bis 10 Tage nach der Infektion, teilweise jedoch erst nach bis zu 21 Tagen auf: </seg></tuv>
+      <tuv xml:lang="en"><seg>Symptoms usually appear 7 to 10 days after infection, but may also appear up to 21 days later: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Im Alter zwischen 11 und 24 Monaten wird eine dritte bzw. vierte Dosis und im Alter zwischen 3 und 7 Jahren eine weitere Dosis empfohlen. </seg></tuv>
+      <tuv xml:lang="en"><seg>A third or fourth dose is recommended at 11-24 months of age, and another dose between three and seven years of age. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Häufig bringen ältere Geschwister und Eltern, die mit den Bakterien infiziert sind, die Krankheit mit nach Hause und stecken einen Säugling im Haushalt an. </seg></tuv>
+      <tuv xml:lang="en"><seg>Frequently, older siblings and parents who may be carrying the bacteria bring the disease home and infect an infant in the household. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Anfälle treten zunächst nachts und im weiteren Verlauf zunehmend auch tagsüber auf und können über einen oder zwei Monate wiederkehren. </seg></tuv>
+      <tuv xml:lang="en"><seg>They initially occur at night and then become more frequent during the day and may recur for one to two months. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Impfung gegen Keuchhusten wird in der Regel gemeinsam mit einer Diphtherie- und Tetanusimpfung gegeben (häufig auch in Kombination mit einer Polio-, Haemophilus-influenzae- - und Hepatitis-B-Impfung). </seg></tuv>
+      <tuv xml:lang="en"><seg>The vaccine for pertussis is usually given in combination with diphtheria and tetanus vaccination (often in combination also with poliomyelitis, Haemophilus influenzae and hepatitis B vaccination). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Um ein bestmögliches Ergebnis zu erzielen, muss die Behandlung jedoch im frühen Krankheitsverlauf beginnen, d. h. in den beiden Wochen vor Beginn der Phase mit den Hustenanfällen. </seg></tuv>
+      <tuv xml:lang="en"><seg>However, in order to be most effective, treatment must begin early in the course of disease, during the first one to two weeks before the episodes of numerous rapid coughs occur. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Erstimpfung von 2 bis 3 Dosen wird gemäß dem nationalen Impfplan in der Regel in einem Alter zwischen 2 und 12 Monaten gegeben. </seg></tuv>
+      <tuv xml:lang="en"><seg>A primary course of 2-3 doses is usually given between two and twelve months of age, in accordance with the national vaccination schedule. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Krankheit wird durch Bakterien im Mund, in der Nase und im Rachen der infizierten Person verursacht. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is caused by bacteria in the mouth, nose and throat of an infected person. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei diesen Gruppen und bei sehr kleinen Säuglingen ist Keuchhusten schwieriger zu diagnostizieren. </seg></tuv>
+      <tuv xml:lang="en"><seg>In these groups, and in very young infants, pertussis is harder to diagnose. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu Beginn sind die Symptome mit einer Erkältung vergleichbar (Niesen, laufende Nase, niedriges Fieber und leichter Husten). </seg></tuv>
+      <tuv xml:lang="en"><seg>Initially, symptoms resemble those of a common cold (sneezing, runny nose, low-grade fever and a mild cough). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die schwersten Formen von Keuchhusten treten bei Säuglingen auf. </seg></tuv>
+      <tuv xml:lang="en"><seg>The most severe forms of pertussis are in infants. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nach dieser Phase klingen die Hustenanfälle ab und dem Säugling geht es nach und nach besser (die Genesung kann bis zu drei Monate dauern). </seg></tuv>
+      <tuv xml:lang="en"><seg>After this phase, the coughing fits become less frequent and less severe, and the infant gradually gets better (this can take up to three months). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Erwachsenen und älteren Kindern können Komplikationen wie kurzzeitige Atemnot, gebrochene Rippen, Mastdarmvorfälle und Hernien auftreten. </seg></tuv>
+      <tuv xml:lang="en"><seg>In adults and older children, complications include inability to breathe for short periods, broken ribs, rectal prolapse and hernias. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie kann Keuchhusten vorgebeugt werden? </seg></tuv>
+      <tuv xml:lang="en"><seg>How can pertussis be prevented? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Heranwachsenden, Erwachsenen oder Kindern mit Teilimmunität können die Symptome milder oder etwas anders ausfallen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Adolescents, adults, or children partially immunised generally have milder or somewhat different symptoms. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Säuglingen entwickelt sich das typische Keuchen nicht unbedingt und auf die Hustenanfälle können kurze Atemaussetzer folgen. </seg></tuv>
+      <tuv xml:lang="en"><seg>In young infants the typical 'whoop' may never develop, and the coughing fits may be followed by brief periods when breathing stops. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die beste Methode zur Vorbeugung ist ein vollständiger Impfschutz. </seg></tuv>
+      <tuv xml:lang="en"><seg>The most important way to prevent pertussis is through complete immunisation. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Keuchhusten kann auch von Personen, die nur leicht erkrankt sind, und von Infizierten, die keine Symptome zeigen, übertragen werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pertussis can also be spread by an individual who has only a mild form of the disease, or by an infected individual who has no symptoms at all. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Säuglingen, die nicht geimpft sind oder deren Mutter nicht geimpft war, kann eine Keuchhusteninfektion besonders schwer verlaufen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pertussis in unvaccinated infants or infants whose mother was unvaccinated can be particularly severe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Einige Länder empfehlen zudem Auffrischungsimpfungen für Frauen nach der Entbindung, um zu verhindern, dass die Krankheit von der Mutter auf das Baby übertragen wird. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some countries also recommend a booster to unprotected women soon after they have delivered, to reduce the risk of transmission of the disease to the baby. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei einer Erkrankung können Antibiotika gegeben werden, um den Keuchhusten zu behandeln und die Ansteckung anderer Menschen zu verhindern. </seg></tuv>
+      <tuv xml:lang="en"><seg>Antibiotics can be used to treat pertussis and prevent further spread of the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei wem besteht ein Keuchhusten-Risiko? </seg></tuv>
+      <tuv xml:lang="en"><seg>Who is at risk of pertussis? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu den Komplikationen gehören Lungenentzündungen, Enzephalopathie (eine Gehirnerkrankung) und Anfälle; schlimmstenfalls kann eine Infektion sogar zum Tod führen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Complications include pneumonia, encephalopathy (a disease of the brain), seizures and even death. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Was ist Keuchhusten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is pertussis? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nach einem solchen Hustenanfall wird häufig zäher, klarer Schleim herausgewürgt, worauf oft Erbrechen folgt. </seg></tuv>
+      <tuv xml:lang="en"><seg>These episodes frequently end with the expulsion of a thick, clear mucous, often followed by vomiting. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Symptome zeigen sich bei Keuchhusten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the symptoms of pertussis? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Keuchhusten wird im Wege der Tröpfcheninfektion übertragen, wenn die infizierte Person hustet. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pertussis is spread via airborne droplets produced when the infected person coughs. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In einigen EU-/ERW-Ländern werden Auffrischungsimpfungen für Heranwachsende, Erwachsene und/oder schwangere Frauen empfohlen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some EU/EEA countries recommend boosters for adolescents, adults, and/or women during pregnancy, which also temporarily protects the baby once it is born. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie wird Keuchhusten behandelt? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is pertussis treated? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Komplikationen können bei Keuchhusten auftreten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the complications of pertussis? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie verbreitet sich Keuchhusten? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is pertussis spread? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Keuchhusten handelt es sich um eine hochinfektiöse, durch Bakterien verursachte Lungen- und Atemwegserkrankung. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pertussis is a highly infectious bacterial disease involving the lungs and airways. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ein Ansteckungsrisiko besteht bei allen Personen, die nicht gegen Keuchhusten geimpft sind oder deren Impfschutz nicht aufgefrischt wurde. </seg></tuv>
+      <tuv xml:lang="en"><seg>Anyone who is not vaccinated with the pertussis vaccine, or whose vaccination status is not up-to-date, is at risk of contracting the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Keuchhusten wird auch als Pertussis bezeichnet. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is also known as whooping cough. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Er äußert sich dann durch rapide Hustenanfälle, auf die ein hohes, keuchendes Geräusch folgt. </seg></tuv>
+      <tuv xml:lang="en"><seg>Within two weeks, the cough becomes more severe and is characterized by episodes of numerous rapid coughs, followed by a crowing or high-pitched ‘whoop'. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>breitet sich Polio in den meisten Regionen (darunter in Europa) nicht mehr aus. </seg></tuv>
+      <tuv xml:lang="en"><seg>transmission of polio has ended in most parts of the world, including Europe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie verringern die mit den Krankheiten einhergehende soziale, psychologische und finanzielle Belastung der Menschen und des Staats, indem sie den Druck auf das Gesundheitssystem und das Sozialwesen reduzieren und den Menschen die Möglichkeit geben, produktiven Tätigkeiten wie einer Ausbildung oder Beschäftigung nachzugehen. </seg></tuv>
+      <tuv xml:lang="en"><seg>They help reduce the social, psychological and financial burdens of disease on people and governments, reducing pressures on healthcare and social care systems and enabling people to pursue productive activities including education and employment. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sowohl die konservativste Schätzung (innerer Ring, dunklere Punkte) als auch die Höchstschätzung (äußerer Ring, hellere Punkte) werden dargestellt. </seg></tuv>
+      <tuv xml:lang="en"><seg>This shows both the most conservative estimate (inner ring, darker dots) and the maximum estimate (outer ring, paler dots). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn ein großer prozentualer Anteil der Bevölkerung geimpft ist, können sich Infektionskrankheiten nicht so leicht ausbreiten. </seg></tuv>
+      <tuv xml:lang="en"><seg>When a large percentage of a population is vaccinated, infectious diseases cannot easily spread. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>sind die Pocken heute weltweit ausgerottet, </seg></tuv>
+      <tuv xml:lang="en"><seg>smallpox is now eradicated worldwide; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dies bezeichnet man als „Herdenimmunität". </seg></tuv>
+      <tuv xml:lang="en"><seg>This is known as 'community immunity' (also referred to as 'herd immunity'). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die miteinander verbundenen Punkte stellen die Mindest- bzw. Höchstzahl der zuvor nicht infizierten und nicht geimpften Personen dar, die von einer erkrankten Person infiziert werden könnten. </seg></tuv>
+      <tuv xml:lang="en"><seg>The connected dots indicate the maximum and minimum number of previously uninfected and unvaccinated people who could get infected by a person with the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen helfen, die Ausbreitung von Krankheiten in der Gesellschaft zu verhindern. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination helps prevent the spread of disease in communities. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Durch Impfungen können Krankheiten ausgemerzt oder die Anzahl der Neuinfektionen erheblich reduziert werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination can eliminate diseases or reduce the number of new cases significantly. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der Punkt in der Mitte steht für eine erkrankte Person. </seg></tuv>
+      <tuv xml:lang="en"><seg>The centre dot represent one person affected by a disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zudem verhindern Impfungen die Entwicklung bestimmter Arten von Krebsvorstufen und Krebserkrankungen: </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination also prevents the development of certain types of pre-cancerous growths and cancers, for example: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfprogramme wirken sich positiv auf die gesamte Gesellschaft aus. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination programmes have wider societal benefits. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>eine Impfung gegen Hepatitis B kann dazu beitragen, Leberkrebs als Folge einer chronischen Hepatitis-B-Infektion zu verhindern. </seg></tuv>
+      <tuv xml:lang="en"><seg>vaccinating against hepatitis B can help prevent liver cancer caused by long-term hepatitis B infection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine Impfung gegen das Humane Papilloma-Virus (HPV) kann dazu beitragen, Gebärmutterhalskrebs und andere durch HPV hervorgerufene Krebserkrankungen zu verhindern; </seg></tuv>
+      <tuv xml:lang="en"><seg>vaccinating against humanpapilloma virus (HPV) can help prevent cervical and other cancers caused by HPV infection; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine Impfung ist die beste Möglichkeit zur Immunisierung gegen Erkrankungen, für die es Impfstoffe gibt, und in jedem Fall einer Immunisierung durch die Krankheit selbst vorzuziehen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination is the best way to acquire immunity against vaccine-preventable diseases, as opposed to immunity attained by getting the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Mit Impfungen wird verhindert, dass die - oft schwerwiegenden - Symptome der Krankheit auftreten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination prevents people from getting the symptoms of the disease, which can be severe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören: </seg></tuv>
+      <tuv xml:lang="en"><seg>These include: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Wirksamkeit bei einzelnen Personen hängt von einer Reihe von Faktoren ab. </seg></tuv>
+      <tuv xml:lang="en"><seg>Effectiveness in an individual depends on a number of factors. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Er verleiht in der Regel einen lebenslangen Schutz und weist eine Wirksamkeit von etwa 97-99 % bei gesunden Kindern auf, die zwei Dosen des Impfstoffes erhalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>It typically provides lifelong protection and has an effectiveness of around 97-99% among healthy children who receive two doses. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jedoch sind in diesen Fällen die Symptome der betroffenen Person häufig milder, als sie es ohne Impfung sein würden. </seg></tuv>
+      <tuv xml:lang="en"><seg>In these cases, however, the person's symptoms are often milder than they would have been without vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jedes Virus bzw. jedes Bakterium löst eine bestimmte Reaktion im Immunsystem aus, das eine spezielle Art von Zellen im Blut umfasst... </seg></tuv>
+      <tuv xml:lang="en"><seg>Each virus and bacterium triggers a unique response in the immune system involving a specific set of cells in the blood... </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die einzelnen europäischen Länder entscheiden, welche Impfstoffe in ihre nationalen Impfprogramme aufgenommen und von ihren nationalen Gesundheitssystemen finanziert werden sollen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Individual European countries decide which vaccines should be part of their national vaccination programmes and funded by their national health systems. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es ist dann auch weniger wahrscheinlich, dass diese Person andere ansteckt. </seg></tuv>
+      <tuv xml:lang="en"><seg>They are also less likely to infect others. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie bei jedem Arzneimittel ist kein Impfstoff bei jeder geimpften Person hundertprozentig wirksam. </seg></tuv>
+      <tuv xml:lang="en"><seg>As with any medicine, no vaccine is 100% effective in every person vaccinated. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe verhindern Krankheiten, die andernfalls schwerwiegende Gesundheitsprobleme, eine dauerhafte Behinderung oder sogar den Tod zur Folge haben können. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines prevent diseases that could otherwise cause serious health problems, permanent disability or even death. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bevor ein Impfstoff in der EU zugelassen werden kann, muss er von seinem Entwickler gründlich... </seg></tuv>
+      <tuv xml:lang="en"><seg>Before a vaccine can be approved in the EU, it has to undergo rigorous testing by its developer... </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das liegt daran, dass diese Person keinen ausreichenden Schutz gegen die Krankheit aufgebaut hat oder dass die Immunität gegenüber der Krankheit mit der Zeit abnimmt. </seg></tuv>
+      <tuv xml:lang="en"><seg>This is due to the person not developing sufficient protection against the disease or due to immunity decreasing over time. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In einigen Fällen kann eine Person dennoch erkranken, auch wenn sie die empfohlene Dosis eines Impfstoffes gegen die Krankheit erhalten hat. </seg></tuv>
+      <tuv xml:lang="en"><seg>In some circumstances, a person can still get a disease even after receiving the recommended doses of a vaccine against it. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der Impfstoff gegen Masern, Mumps und Röteln (MMR) ist beispielsweise sehr wirksam bei der Prävention dieser Erkrankungen. </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, the vaccine against measles, mumps and rubella (MMR) is highly effective at preventing disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>andere Erkrankungen oder gesundheitliche Probleme, an denen sie leiden; </seg></tuv>
+      <tuv xml:lang="en"><seg>other diseases or conditions they may have; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>der Impfstoff. </seg></tuv>
+      <tuv xml:lang="en"><seg>the vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Genehmigung von Impfstoffen in der Europäischen Union </seg></tuv>
+      <tuv xml:lang="en"><seg>Approval of vaccines in the European Union </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Fähigkeit eines Impfstoffs, eine bestimmte Krankheit zu verhüten, ist der Indikator für seine Wirksamkeit. </seg></tuv>
+      <tuv xml:lang="en"><seg>A vaccine's ability to prevent a specific disease determines its effectiveness. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Vorteile des Impfens </seg></tuv>
+      <tuv xml:lang="en"><seg>Benefits of vaccinating </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei ordnungsgemäßer Verabreichung sind zugelassene Impfstoffe wirksam sowohl zur indivuellen Prävention von Krankheiten als auch zum Schutz der gesamten Bevölkerung. </seg></tuv>
+      <tuv xml:lang="en"><seg>Authorised vaccines are effective at preventing disease and protecting the population when administered correctly. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Art der Verabreichung des Impfstoffes; </seg></tuv>
+      <tuv xml:lang="en"><seg>how the vaccine is given; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Über uns </seg></tuv>
+      <tuv xml:lang="en"><seg>About us </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei gesunden Menschen verläuft die Erkrankung in der Regel mild. </seg></tuv>
+      <tuv xml:lang="en"><seg>In healthy individuals it is usually a mild disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Röteln (Rubella) handelt es sich um eine Virusinfektion. </seg></tuv>
+      <tuv xml:lang="en"><seg>Rubella (German measles) is a viral infection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Website bietet ferner einen Überblick über die Verfahren in der Europäischen Union (EU), mit denen sichergestellt werden soll, dass die verfügbaren Impfstoffe die strengsten Normen im Hinblick auf Sicherheit und Wirksamkeit erfüllen. </seg></tuv>
+      <tuv xml:lang="en"><seg>It also provides an overview of the mechanisms in place in the European Union (EU) to ensure that available vaccines conform to the highest standards of safety and effectiveness. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Hauptzweck dieser Website ist es, genaue, objektive und aktuelle Erkenntnisse über Impfstoffe und Impfungen zu liefern. </seg></tuv>
+      <tuv xml:lang="en"><seg>The main purpose of this website is to provide accurate, objective, up-to-date evidence on vaccines and vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe schützen Menschen in verschiedenen Lebensphasen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines protect people during different stages of life. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe werden für verschiedene Altersgruppen empfohlen </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines are recommended for different age... </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen schützen die geimpften Personen und andere in ihrem Umfeld, die anfällig für die... </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination protects the vaccinated persons and those around them who are vulnerable to the diseases... </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Europäisches Impfinformationsportal </seg></tuv>
+      <tuv xml:lang="en"><seg>European Vaccination Information Portal </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Virusgrippe (Influenza) ist eine ansteckende Atemwegserkrankung, die durch Infektion mit einem Grippevirus verursacht wird. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pertussis is a highly infectious bacterial disease involving the lungs and airways. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weiterlesen </seg></tuv>
+      <tuv xml:lang="en"><seg>Trusted sources </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie wurde auf Initiative der Europäischen Union im Anschluss an die Empfehlung des Rates zur verstärkten Zusammenarbeit bei der Bekämpfung von durch Impfung vermeidbaren Krankheiten entwickelt, die im Dezember 2018 angenommen wurde. </seg></tuv>
+      <tuv xml:lang="en"><seg>This website does not contain any specific information on the ongoing development of vaccines against COVID-19. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Unbedenklichkeit , Qualität und Standards </seg></tuv>
+      <tuv xml:lang="en"><seg>Safety, quality and standards </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Schwerwiegende Nebenwirkungen sind äußerst selten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Serious side effects are very rare. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der erste Impfstoff wurde im 18. Jahrhundert im Vereinigten Königreich entwickelt. </seg></tuv>
+      <tuv xml:lang="en"><seg>The first vaccine was developed in the 18th century in the United Kingdom. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die letzte bekannte natürliche Pockeninfektion wurde 1977 in Somalia nachgewiesen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The last known naturally occurring case was recorded in 1977 in Somalia. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zudem helfen Sie, die Ausbreitung von Krankheiten in der Gesellschaft zu verhindern. </seg></tuv>
+      <tuv xml:lang="en"><seg>They also help to prevent the spread of diseases in the community. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der Impfstoff wird laufend überwacht, um sicherzustellen, dass er stets unbedenklich und wirksam ist. </seg></tuv>
+      <tuv xml:lang="en"><seg>The vaccine is continuously monitored to ensure it remains safe and effective. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie wirken hauptsächlich gegen durch Viren oder Bakterien verursachte Erkrankungen. </seg></tuv>
+      <tuv xml:lang="en"><seg>They mainly target diseases caused by viruses or bacteria. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dabei handelte es sich um eine Impfung gegen Pocken, eine tödliche Krankheit. </seg></tuv>
+      <tuv xml:lang="en"><seg>It was a vaccine against smallpox, a deadly disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören zum Beispiel leichtes Fieber sowie Schmerzen oder Rötungen an der Injektionsstelle. </seg></tuv>
+      <tuv xml:lang="en"><seg>They can include mild fever, or pain or redness at the injection site. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Erst danach, d. h. nach der Zulassung, darf der Impfstoff hergestellt, in den Verkehr gebracht und zum Schutz von Menschen eingesetzt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Only then, after approval, can a vaccine be manufactured, marketed and used to protect people. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie bei jedem Arzneimittel treten bei einigen Menschen möglicherweise Nebenwirkungen auf; bei Impfstoffen sind diese jedoch in der Regel mild und nur von kurzer Dauer. </seg></tuv>
+      <tuv xml:lang="en"><seg>As with any medicine, some people may experience side effects from a vaccine, but these are usually mild and short-lived. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe wirken, indem sie dem Immunsystem (der natürlichen Abwehr des Körpers) des Menschen „beibringen", wie es eine Krankheit abwehren kann. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines work by ‘teaching' a person's immune system (the body's natural defences) to defend itself against a specific disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ein Impfstoff kann in der Europäischen Union und im Europäischen Wirtschaftsraum erst zugelassen werden, wenn eine wissenschaftliche Beurteilung zu den Ergebnissen dieser Tests vorliegt, um die Qualität, Unbedenklichkeit und Wirksamkeit des Impfstoffs zu gewährleisten. </seg></tuv>
+      <tuv xml:lang="en"><seg>The vaccine can only be approved for use in the European Union (EU) and European Economic Area (EEA) after a scientific evaluation of the results of these tests to ensure its quality, safety and effectiveness. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die wissenschaftlichen Experten, die die Impfstoffe evaluieren, nehmen in jedem Fall eine sorgfältige Bewertung des Nutzens und sämtlicher potenziellen Risiken vor - nicht zuletzt, weil Impfstoffe bei gesunden Menschen angewendet werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>The scientific experts evaluating vaccines always consider the benefits and any potential risks very carefully, in particular because vaccines are given to healthy people. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe werden in der ganzen Welt eingesetzt, weil sie Menschen auf höchst wirksame Weise vor Infektionskrankheiten schützen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines are used worldwide as a highly effective way to protect people from contracting infectious diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Aus dieser Beurteilung muss hervorgehen, dass der Nutzen, d. h. der Schutz von Menschen gegen Erkrankungen, gegenüber etwaigen Risiken bei Weitem überwiegt. </seg></tuv>
+      <tuv xml:lang="en"><seg>This evaluation needs to show that a vaccine's benefits in protecting people against diseases are far greater than any potential risk. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>So wurde vor Kurzem ein Impfstoff gegen die Ebola-Viruskrankheit entwickelt, und Forscher suchen nach Möglichkeiten, einen Impfstoff gegen das humane Immunschwächevirus (HIV) zu entwickeln. </seg></tuv>
+      <tuv xml:lang="en"><seg>Recently, a vaccine was developed against Ebola virus disease, and research is underway on vaccines to protect against human immunodeficiency virus (HIV). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dank der Impfungen sind Pocken beim Menschen heute weltweit ausgerottet. </seg></tuv>
+      <tuv xml:lang="en"><seg>Smallpox is now eradicated worldwide in humans thanks to vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Heute gibt es Impfstoffe gegen zahlreiche Krankheiten und es wird laufend nach weiteren Impfstoffen geforscht. </seg></tuv>
+      <tuv xml:lang="en"><seg>Nowadays, there are vaccines for many diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Neue Impfstoffe werden intensiv getestet, bevor sie eingesetzt werden können. </seg></tuv>
+      <tuv xml:lang="en"><seg>Before any new vaccine can be used, it has to undergo rigorous testing. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Europäische Kommission ist die politisch unabhängige Exekutive der EU. </seg></tuv>
+      <tuv xml:lang="en"><seg>The European Commission is the EU's politically independent executive arm. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Europäische Arzneimittel-Agentur </seg></tuv>
+      <tuv xml:lang="en"><seg>European Medicines Agency </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten </seg></tuv>
+      <tuv xml:lang="en"><seg>European Centre for Disease Prevention and Control </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Kommission ist in Abteilungen untergliedert, die Strategien für bestimmte Bereiche entwickeln. </seg></tuv>
+      <tuv xml:lang="en"><seg>The Commission is divided into departments that develop policies in specific areas. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese Experten führen die Arbeit in den wissenschaftlichen Ausschüssen der EMA aus. </seg></tuv>
+      <tuv xml:lang="en"><seg>These experts carry out the work of EMA's scientific committees. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>(1) Die Europäische Kommission, das ECDC und die EMA verfügen über Verfahren zur Gewährleistung der Unparteilichkeit. </seg></tuv>
+      <tuv xml:lang="en"><seg>(1) The European Commission, ECDC and EMA have mechanisms in place in order to ensure impartiality. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die EMA ist eine Netzwerkorganisation, an deren Tätigkeiten Tausende von Experten aus ganz Europa beteiligt sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>EMA is a networking organisation whose activities involve thousands of experts from across Europe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie allein bringt Vorschläge für neue europäische Gesetze ein und setzt die Beschlüsse des Europäischen Parlaments und des Rates der EU um. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is alone responsible for drawing up proposals for new European legislation, and it implements the decisions of the European Parliament and the Council of the EU . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Auf diese Weise wird sichergestellt, dass sich die Mitarbeiter und Sachverständigen bei der Wahrnehmung ihrer Aufgaben nicht mit Angelegenheiten befassen, an denen sie möglicherweise direkt oder indirekt ein persönliches Interesse haben, das ihre Unabhängigkeit beeinflussen könnte. </seg></tuv>
+      <tuv xml:lang="en"><seg>This is to ensure that staff and experts do not, in the performance of their duties, deal with matters in which they may, directly or indirectly, have a personal interest that could impair their independence. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die EMA und ihre wissenschaftlichen Ausschüsse untersuchen sämtliche verfügbaren Daten und prüfen ihren Nutzen und ihre Risiken, bevor sie in der EU zugelassen werden und während sie in Verkehr sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>EMA and its scientific committees examine all available data and assess their benefits and risks before they are approved and while they are marketed in the EU. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die EMA arbeitet eng mit europäischen und internationalen Partnern zusammen und teilt Informationen über Impfstoffe und eine gute Regulierungspraxis. </seg></tuv>
+      <tuv xml:lang="en"><seg>EMA works closely with European and international partners and shares information on vaccines and good regulatory practice. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die EMA gewährleistet die Wirksamkeit, Qualität und Sicherheit von Impfstoffen. </seg></tuv>
+      <tuv xml:lang="en"><seg>EMA ensures the efficacy, quality and safety of vaccines. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das ECDC ist eine wissenschaftliche Agentur der EU, die Europa bei der Abwehr von Infektionskrankheiten stärken soll. </seg></tuv>
+      <tuv xml:lang="en"><seg>ECDC is an EU scientific agency aimed at strengthening Europe's defences against infectious diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese Website wurde vom Europäischen Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC) in Zusammenarbeit mit der Europäischen Kommission (insbesondere der Abteilung für Gesundheit und Lebensmittelsicherheit (GD SANTE)) und der Europäischen Arzneimittel-Agentur (EMA) entwickelt. </seg></tuv>
+      <tuv xml:lang="en"><seg>This website was developed by the European Centre for Disease Prevention and Control (ECDC), in partnership with the European Commission, specifically, its Department on Health and Food Safety (DG SANTE) and the European Medicines Agency (EMA). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ihre Kernaufgaben umfassen ein breites Spektrum von Tätigkeiten: Überwachung, epidemiologische Informationen, Reaktion, wissenschaftliche Beratung, Mikrobiologie, Vorsorge, Schulungen im Bereich der öffentlichen Gesundheit, internationale Beziehungen, Kommunikation im öffentlichen Gesundheitswesen sowie die wissenschaftliche Zeitschrift Eurosurveillance. </seg></tuv>
+      <tuv xml:lang="en"><seg>The core functions cover a wide spectrum of activities: surveillance, epidemic intelligence, response, scientific advice, microbiology, preparedness, public health training, international relations, health communication, and the scientific journal Eurosurveillance. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Hauptzweck dieser Website ist es, genaue, objektive und aktuelle Erkenntnisse über Impfstoffe und Impfungen zu liefern. </seg></tuv>
+      <tuv xml:lang="en"><seg>The main purpose of this website is to provide accurate, objective, up-to-date evidence on vaccines and vaccination in general. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine dieser Abteilungen ist die GD Gesundheit und Lebensmittelsicherheit , die für die EU-Strategie im Bereich Lebensmittelsicherheit und Gesundheit zuständig ist und die Umsetzung der damit verbundenen Rechtsvorschriften überwacht. </seg></tuv>
+      <tuv xml:lang="en"><seg>One of the departments is DG for Health and Food Safety , responsible for EU policy on food safety and health and for monitoring the implementation of related laws. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Mitarbeiter und Sachverständige müssen persönliche Interessen oder Interessen an Unternehmen oder Organisationen offenlegen, die ihre Unparteilichkeit beeinträchtigen könnten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Staff and experts are required to declare any personal interest or any interest in any business or organisation that could compromise their impartiality. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das ECDC unterhält ferner die interaktive Online-Plattform Vaccine Scheduler mit den Impfplänen aller EU-Mitgliedstaaten. </seg></tuv>
+      <tuv xml:lang="en"><seg>ECDC also maintains the Vaccine Scheduler , an online, interactive platform showing the vaccination schedules of all EU Member States. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie wurde auf Initiative der Europäischen Union im Anschluss an die Empfehlung des Rates zur verstärkten Zusammenarbeit bei der Bekämpfung von durch Impfung vermeidbaren Krankheiten entwickelt, die im Dezember 2018 angenommen wurde. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is an initiative of the European Union and was developed following the Council Recommendation on Strengthened Cooperation against Vaccine Preventable Diseases adopted in December 2018. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Kommunikationsexperten und wissenschaftliche Sachverständige dieser Organisationen sind an der Entwicklung der Inhalte beteiligt. </seg></tuv>
+      <tuv xml:lang="en"><seg>Communication and scientific experts in these organisations are involved in developing the contents (1). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Mehr erfahren: https://ec.europa.eu/health/vaccination/overview_de und https://ec.europa.eu/info/departments/health-and-food-safety_de </seg></tuv>
+      <tuv xml:lang="en"><seg>Read more: https://ec.europa.eu/health/vaccination/overview_en and https://ec.europa.eu/info/departments/health-and-food-safety_en </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Im Bereich „durch Impfungen vermeidbare Krankheiten" stellt das ECDC regelmäßige Überwachungsdaten bereit (z. B. die Anzahl der bestätigten Fälle und wissenschaftliche Beratung zu Impfstoffen), überwacht Krankheitsausbrüche und erstellt Materialien für eine bessere Kommunikation über die Immunisierung. </seg></tuv>
+      <tuv xml:lang="en"><seg>In the area of vaccine-preventable diseases, ECDC provides regular surveillance data, e.g. the number of confirmed cases, and scientific advice on vaccines, monitors disease outbreaks and develops materials to support communication on immunisation. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen finden Sie hier: https://www.ema.europa.eu / </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information visit: https://www.ema.europa.eu / </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zur Fertigstellung der Inhalte und Sprachfassungen der Website wurden Vertreter der Einrichtungen des öffentlichen Gesundheitswesens in der EU und im Europäischen Wirtschaftsraum (EWR) konsultiert. </seg></tuv>
+      <tuv xml:lang="en"><seg>Representatives from EU and EEA countries' public health organisations were consulted for finalising the website's contents and its language versions. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen finden Sie hier: https://www.ecdc.europa.eu/ </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information visit: https://www.ecdc.europa.eu/ </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie ist für die wissenschaftliche Beurteilung, Überwachung und Sicherheitsüberwachung von Arzneimitteln in der EU zuständig. </seg></tuv>
+      <tuv xml:lang="en"><seg>The European Medicines Agency (EMA) is a decentralized agency of the European Union (EU) responsible for the scientific evaluation, supervision and safety monitoring of medicines in the EU. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zur Verbesserung der Durchimpfungsraten nahm der Rat im Dezember 2018 eine Empfehlung zur verstärkten Zusammenarbeit bei der Bekämpfung von durch Impfung vermeidbaren Krankheiten an. Ziel der Initiative ist es, die Impfbereitschaft zu erhöhen, die Abstimmung bei der Beschaffung von Impfstoffen zu verbessern, Forschung und Innovation zu fördern und die EU-weite Zusammenarbeit bei Krankheiten zu stärken, die durch Impfungen vermieden werden können. </seg></tuv>
+      <tuv xml:lang="en"><seg>The initiative aims to tackle vaccine hesitancy, improve coordination on vaccine procurement, support research and innovation, and strengthen EU cooperation on vaccine-preventable diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die erste Dosis wird in den meisten europäischen Ländern im Alter von 10 bis 18 Monaten gegeben. </seg></tuv>
+      <tuv xml:lang="en"><seg>The first dose is given between 10 and 18 months of age in most European countries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn sich Symptome zeigen, handelt es sich dabei u. a. um: </seg></tuv>
+      <tuv xml:lang="en"><seg>When symptoms do occur, they include: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>roten Hautausschlag; </seg></tuv>
+      <tuv xml:lang="en"><seg>red rash; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Er ist sicher und effektiv und hat nur sehr wenige Nebenwirkungen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The MMR vaccine is safe and effective and has very few side effects. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>geschwollene Lymphdrüsen im Bereich der Ohren und am Hinterkopf; </seg></tuv>
+      <tuv xml:lang="en"><seg>swollen lymph glands around the ears and the back of the head; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Für einen umfassenden Schutz sind zwei Impfdosen erforderlich. </seg></tuv>
+      <tuv xml:lang="en"><seg>Two doses of the vaccine are needed for maximum protection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei bis zu 50 % aller Röteln-Infizierten treten keine Symptome auf. </seg></tuv>
+      <tuv xml:lang="en"><seg>Up to 50% of people infected with rubella do not experience symptoms. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die zweite Gabe kann gemäß den nationalen Impfplänen einen Monat oder mehr nach der ersten Dosis erfolgen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The second dose can be given one month or more after the first dose, in accordance with the national vaccination schedule. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es wurde über leichte Reaktionen wie Fieber und Rötung oder Schwellung an der Injektionsstelle berichtet. </seg></tuv>
+      <tuv xml:lang="en"><seg>Mild reactions such as fever, redness or swelling at the injection site have been reported. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Den einzigen Schutz vor Röteln bietet eine Impfung. </seg></tuv>
+      <tuv xml:lang="en"><seg>The only protection against rubella is vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Frauen, die eine Schwangerschaft planen, sollten ihren Impfstatus überprüfen, da während der Schwangerschaft keine Röteln-Impfung möglich ist. </seg></tuv>
+      <tuv xml:lang="en"><seg>Women who plan to become pregnant should check their vaccination status, as they cannot be vaccinated against rubella during pregnancy. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Gelenkschmerzen und -entzündungen bei Erwachsenen. </seg></tuv>
+      <tuv xml:lang="en"><seg>pain and inflammation of the joints in adults. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei einigen Geimpften tritt meist 7 bis 14 Tage nach der Impfung ein nicht ansteckender masernähnlicher Hautausschlag auf, der innerhalb von 1 bis 3 Tagen verschwindet. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some vaccine recipients develop a non-infectious mild measles-like rash, typically 7-14 days after vaccination, which disappears within 1-3 days. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie kann Röteln vorgebeugt werden? </seg></tuv>
+      <tuv xml:lang="en"><seg>How can rubella be prevented? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Alle Menschen, die die Erkrankung noch nicht hatten oder nicht mit dem MMR-Impfstoff geimpft wurden, können sich mit Röteln infizieren. </seg></tuv>
+      <tuv xml:lang="en"><seg>Anyone who has not had the disease or who has not been vaccinated with the MMR vaccine is at risk of contracting rubella. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das Röteln-Virus wird im Wege der Tröpfcheninfektion übertragen, wenn die infizierte Person hustet und niest. </seg></tuv>
+      <tuv xml:lang="en"><seg>The rubella virus is spread via airborne droplets produced when the infected person coughs and sneezes. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der MMR-Impfstoff ist ein Kombinationsimpfstoff gegen Masern, Mumps und Röteln. </seg></tuv>
+      <tuv xml:lang="en"><seg>The MMR (measles, mumps and rubella) vaccine is a combination vaccine that protects against measles, mumps and rubella. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie werden Röteln behandelt? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is rubella treated? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie verbreiten sich Röteln? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is rubella spread? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei wem besteht ein Röteln-Risiko? </seg></tuv>
+      <tuv xml:lang="en"><seg>Who is at risk of rubella? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Frauen, die sich innerhalb der ersten drei Schwangerschaftsmonate mit Röteln infizieren, besteht jedoch ein sehr hohes Risiko von Fehlgeburten oder eines Fehlbildungssyndroms (Gregg-Syndrom) beim Neugeborenen. </seg></tuv>
+      <tuv xml:lang="en"><seg>However, if a woman gets rubella during the first three months of pregnancy, it is very likely to result in miscarriage or a baby born with congenital anomalies known as congenital rubella syndrome (CRS). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Was sind Röteln? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is rubella? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei schwangeren Frauen, die keinen Impfschutz haben und sich mit Röteln infizieren, sind die Folgen besonders schwerwiegend, da eine Erkrankung während der Schwangerschaft zu einer Fehlgeburt oder dem Gregg-Syndrom beim Neugeborenen führen kann. </seg></tuv>
+      <tuv xml:lang="en"><seg>The consequences for unvaccinated pregnant women that get rubella are particularly severe, due to the likelihood that contracting the disease during pregnancy can lead to miscarriage or CRS in their babies. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das Gregg-Syndrom kann beim Neugeborenen Gehörlosigkeit, Augentrübung (Katarakt) und Lernstörungen verursachen. </seg></tuv>
+      <tuv xml:lang="en"><seg>CRS can lead to deafness, cataracts and learning disabilities in the baby. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Komplikationen können bei Röteln auftreten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the complications of rubella? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Symptome zeigen sich bei einer Röteln-Infektion? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the symptoms of rubella? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Er kann sich rasch ausbreiten. </seg></tuv>
+      <tuv xml:lang="en"><seg>It can spread quickly. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei weniger als 5 % tritt Fieber auf. </seg></tuv>
+      <tuv xml:lang="en"><seg>Less than 5% will have fever. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der MMR-Impfstoff ist sicher und wirksam. </seg></tuv>
+      <tuv xml:lang="en"><seg>The MMR vaccine is safe and effective. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Daher mögen die langfristigen Vorteile einer Impfung nicht unbedingt unmittelbar offensichtlich sein. </seg></tuv>
+      <tuv xml:lang="en"><seg>Therefore, the long-term benefits of getting vaccinated may not be immediately obvious. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe werden jedes Jahr weltweit bei Hunderten Millionen von Menschen zum Schutz vor schwerwiegenden Krankheiten angewendet. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines are used in hundreds of millions of people worldwide each year to protect from serious diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Rund 20 % der Säuglinge zeigen eine Rötung und Schmerzen an der Injektionsstelle. </seg></tuv>
+      <tuv xml:lang="en"><seg>About 20% of infants will have redness and pain at the injection site. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Keuchhusten-Impfung ist Teil der nationalen Impfprogramme in der EU. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination against pertussis is part of national immunisation programmes in the EU. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>So erhielten im Jahr 2018 rund 86 % der Säuglinge weltweit Dosen des Impfstoffes, der sie vor Diphtherie, Tetanus und Keuchhusten (DTP) schützt; 85 % der Säuglinge weltweit erhielten drei Dosen des Polio-impfstoffes (1). </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, during 2018 about 86% of infants worldwide received three doses of the vaccine that protects them against diphtheria, tetanus and pertussis (DTP), and 85% of infants around the world received three doses of polio vaccine (1). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Viele Infektionskrankheiten sind heute aufgrund der Impfungen sehr selten, daher geraten die negativen Folgen dieser Krankheiten bisweilen in Vergessenheit. </seg></tuv>
+      <tuv xml:lang="en"><seg>Many infectious diseases are very rare today thanks to vaccination, so the negative consequences of these diseases are sometimes forgotten. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Masern können schwerwiegend oder gar lebensbedrohlich sein. </seg></tuv>
+      <tuv xml:lang="en"><seg>Measles can be serious or even life-threatening. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Würde man das Impfen einstellen, könnten viele dieser Krankheiten und damit zusammenhängende Krankheitsausbrüche zurückkommen. </seg></tuv>
+      <tuv xml:lang="en"><seg>If people stopped being vaccinated, many of these diseases and related outbreaks could return. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Im Gegensatz zu einer Behandlung, die zur Heilung einer Krankheit erfolgt, werden Impfstoffe in der Regel bei gesunden Personen angewendet, um sie vor dem Erkranken zu schützen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Unlike a treatment given to cure an illness, vaccines are usually given to healthy people to prevent them from getting ill. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Keuchhusten kann schwere krampfartige Hustenanfälle verursachen und dauert in der Regel drei bis sechs Wochen an. </seg></tuv>
+      <tuv xml:lang="en"><seg>It can cause severe spasms of cough and usually lasts three to six weeks. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Den einzigen Schutz vor Masern bietet die Impfung. </seg></tuv>
+      <tuv xml:lang="en"><seg>The only protection against measles is vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Häufig müssen Säuglinge im Krankenhaus aufgenommen werden; das Risiko von Komplikationen und der Notwendigkeit eines Krankenhausaufenthalts steigen für Säuglinge im Alter von unter drei Monaten. </seg></tuv>
+      <tuv xml:lang="en"><seg>It will often lead to hospitalisation in infants, and the risk of complications and hospitalisation increases for infants younger than three months. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Seit Oktober 2016 ist jedoch aufgrund des Rückgangs der Impfraten ein Wiederauftreten der Masern in den EU/EWR-Ländern mit Krankheitsausbrüchen in mehreren Ländern (2) zu beobachten. </seg></tuv>
+      <tuv xml:lang="en"><seg>However, since October 2016 a resurgence of measles has been observed in the EU/EEA, with outbreaks in several countries (2), due to a decline in vaccination rates. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Viele europäische Länder galten als nahezu masernfrei. </seg></tuv>
+      <tuv xml:lang="en"><seg>Measles had almost been eliminated in many European countries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dadurch werden Kinder vor Keuchhusten geschützt; die Impfung hat nur geringfügige Nebenwirkungen. </seg></tuv>
+      <tuv xml:lang="en"><seg>This protects children from whooping cough, while it only causes minor side effects. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu den Komplikationen können Lungenentzündungen, Enzephalopathie (eine Gehirnerkrankung) und Anfälle gehören; schlimmstenfalls kann eine Infektion sogar zum Tod führen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Complications can include pneumonia, encephalopathy (a disease of the brain), seizures and even death. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der MMR-Impfstoff schützt vor Masern, Mumps und Röteln. </seg></tuv>
+      <tuv xml:lang="en"><seg>The MMR vaccine protects against measles, mumps and rubella (German measles). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weiterführende Informationen sind dem Faktenblatt zu Masern zu entnehmen. </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information, see measles factsheet . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Keuchhusten (Pertussis) ist eine Erkrankung der Atemwege. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pertussis (whooping cough) is a disease affecting the airways. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Hierzu zählen: </seg></tuv>
+      <tuv xml:lang="en"><seg>These include: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ein Beispiel ist Aluminium; </seg></tuv>
+      <tuv xml:lang="en"><seg>An example is aluminium; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Regulierungsbehörden prüfen, dass ihr Nutzen gegen das Risiko, Reaktionen auszulösen, abgewogen wird. </seg></tuv>
+      <tuv xml:lang="en"><seg>Regulators check that their benefits are weighed against the risk of any reactions to them. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Außer einem oder mehreren Antigenen sind in Impfstoffen noch andere Bestandteile enthalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>In addition to one or more antigens, there are other components in a vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese Stoffe werden laufend kontrolliert, um sicherzustellen, dass sie in Konzentrationen vorhanden sind, die nachweislich sicher sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>These substances are consistently controlled to ensure they are present at levels that have been shown to be safe. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Auch können Spuren anderer im Herstellungsprozess verwendeter Stoffe, wie etwa Ovalbumin (ein in Eiern vorkommender Eiweißstoff) oder Neomycin (ein Antibiotikum), enthalten sein. </seg></tuv>
+      <tuv xml:lang="en"><seg>There may also be trace amounts of other substances used in the manufacturing process, such as ovalbumin (a protein found in eggs) or neomycin (an antibiotic). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Adjuvanzien: Sie verbessern die Immunantwort auf den Impfstoff, indem sie diese verstärken, beschleunigen und länger aufrechterhalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>adjuvants: these improve the immune response to the vaccine by making the response stronger, faster and more sustained in time. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Falls diese Stoffe in einer Konzentration enthalten sind, die bei einer empfindlichen oder allergischen Person eine Reaktion auslösen könnte, wird ihr Vorkommen in den Informationen über den Impfstoff, die Gesundheitspflegekräften und Patienten zur Verfügung gestellt werden, deklariert. </seg></tuv>
+      <tuv xml:lang="en"><seg>Whenever these substances are present at a level that might trigger a reaction in a sensitive or allergic individual, their presence is declared in the information provided to healthcare workers and patients on the vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Hilfsstoffe: Hierbei handelt es sich um unwirksame Stoffe wie Wasser oder Natriumchlorid (Salz) sowie Konservierungsmittel oder Stabilisatoren, die die Stabilität und damit die Wirksamkeit des Impfstoffs während der Lagerung aufrechterhalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>excipients: these are inactive ingredients, like water, or sodium chloride (salt), as well as the preservatives or stabilisers that help the vaccine remain unchanged during storage, keeping it active. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>So steht in einem solchen Fall in der Packungsbeilage (Beipackzettel), wenn besondere Vorsichtsmaßnahmen bei der Anwendung eines Impfstoffes bei Personen mit bestimmten Allergien, z. B. Impfstoffe mit Spuren von Ei bei Personen mit einer Allergie gegen Ei, zu beachten sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, the package leaflet will state if there are special precautions for use of a vaccine in people with certain allergies, such as vaccines including trace amounts of egg in people with an egg allergy. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bestandteile in Impfstoffen </seg></tuv>
+      <tuv xml:lang="en"><seg>Twitter Facebook Linked In Mail </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Kinder sind etwas häufiger betroffen als Erwachsene. </seg></tuv>
+      <tuv xml:lang="en"><seg>Children are infected slightly more often than adults. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Allerdings werden antivirale Medikamente in der Regel für schwere oder schnell voranschreitende Fälle empfohlen. </seg></tuv>
+      <tuv xml:lang="en"><seg>However, antivirals are generally recommended for severe or rapidly progressing cases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das Influenza-Virus A(H1N1)pdm09, das 2009 pandemisch war, verursachte weltweit zwischen 123 000 und 203 000 Todesfälle und eine erhebliche sozioökonomische Belastung (3). </seg></tuv>
+      <tuv xml:lang="en"><seg>The 2009 A(H1N1)pdm09 influenza pandemic accounted for 123 000 to 203 000 deaths worldwide and a significant global socio-economic burden (3). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die meisten EU-Mitgliedstaaten kommen der WHO-Empfehlung nach, schwangere Frauen zu impfen, und einige Mitgliedstaaten kommen der Empfehlung nach, gesunde Kinder im Alter zwischen 6 und 59 Monaten zu impfen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Most EU Member States follow the WHO recommendations to vaccinate pregnant women, and some follow recommendations to vaccinate healthy children aged 6 - 59 months. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jährlich infizieren sich rund 20 % der Bevölkerung mit Influenza und bei jedem vierten Infizierten treten Symptome auf. </seg></tuv>
+      <tuv xml:lang="en"><seg>Approximately 20% of the population gets infected with influenza each year and one in four infected people will develop symptoms. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese Epidemien gehen mit einer hohen Krankenhausaufenthalts- und Sterblichkeitsrate einher. </seg></tuv>
+      <tuv xml:lang="en"><seg>These epidemics are associated with high hospitalisation rates and mortality. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Liegen bei rund der Hälfte der Kinder und Erwachsenen im erwerbsfähigen Alter, die intensiv behandelt werden müssen, keine Vorerkrankungen vor. </seg></tuv>
+      <tuv xml:lang="en"><seg>Even so, about half of the children and working-age adults needing admission to intensive care have no pre-existing medical conditions. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Grippe ist leicht von Mensch zu Mensch übertragbar. </seg></tuv>
+      <tuv xml:lang="en"><seg>Influenza is easily transmitted from person to person. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In unkomplizierten Fällen klingen die Krankheitsanzeichen innerhalb einer Woche spontan ab. </seg></tuv>
+      <tuv xml:lang="en"><seg>In uncomplicated cases, symptoms resolve spontaneously within one week from onset. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine Impfung bietet den wirksamsten Schutz vor Grippe. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination is the most effective way to prevent influenza. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Weltgesundheitsorganisation (WHO) empfiehlt die Grippe-Impfung auch für Personal im Gesundheitswesen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The World Health Organization (WHO) also recommends vaccination for healthcare workers. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nicht jedem Menschen, der eine Influenza-Infektion hat, geht es schlecht. </seg></tuv>
+      <tuv xml:lang="en"><seg>Not everyone who is infected with an influenza virus becomes unwell. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In einigen Fällen entwickeln Patienten nach der Grippeinfektion bakterienbedingte Komplikationen und müssen mit Antibiotika behandelt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>In some cases patients develop bacterial complications following influenza infection and need to be treated with antibiotics. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Virusgrippe (Influenza) ist eine ansteckende Atemwegserkrankung, die durch Infektion mit einem Grippevirus verursacht wird. </seg></tuv>
+      <tuv xml:lang="en"><seg>Influenza (flu) is a contagious respiratory illness caused by infection with an influenza virus. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Darüber hinaus verbreitet sich Grippe über Tröpfchen auf den Händen, Taschentüchern und Oberflächen, die von vielen Menschen angefasst werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is also spread via secretions on hands, tissues and surfaces that people touch. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Impfstoffe gegen saisonale Grippe müssen jedes Jahr aktualisiert werden, da sich Influenza-Viren kontinuierlich verändern. </seg></tuv>
+      <tuv xml:lang="en"><seg>An update of seasonal influenza vaccines is needed yearly, since influenza viruses constantly evolve. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Auch Tiere können die Grippe bekommen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Animals can also be infected with influenza. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Neben saisonalen Epidemien können von Zeit zu Zeit neuartige Influenza-Viren auftreten und Pandemien auslösen. </seg></tuv>
+      <tuv xml:lang="en"><seg>In addition to seasonal epidemics, novel influenza viruses may occasionally emerge and cause pandemics. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In den am EuroMOMO-Netzwerk teilnehmenden EU-/EWR-Ländern (1) wurde die grippebedingte Sterblichkeitsrate in den Grippesaisons von 2016/17 und 2017/18 auf 25 Todesfälle je 100 000 Einwohner geschätzt. </seg></tuv>
+      <tuv xml:lang="en"><seg>The mortality rate due to influenza has been estimated in the EU/EEA countries participating to the EuroMOMO network (1) to be as high as 25 deaths per 100 000 population in the 2016/27 and 2017/18 influenza seasons (2). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In einigen Fällen können Menschen von Tieren infiziert werden, z. B. bei Geflügel- und Schweinegrippe. </seg></tuv>
+      <tuv xml:lang="en"><seg>In some cases, humans can be infected by animals, such as in cases of avian and swine influenza. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Grippe-Pandemien treten auf, wenn ein neuer Influenza-Virenstamm auftritt, mit dem sich Menschen infizieren können, gegen den die meisten Menschen nicht immun sind und der leicht von Mensch zu Mensch übertragbar ist. </seg></tuv>
+      <tuv xml:lang="en"><seg>Influenza pandemics happen when a new strain of a flu virus appears which can infect humans, to which most people have no immunity and which can transmit efficiently from human to human. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In Europa tritt Virusgrippe regelmäßig als Epidemie in der Wintersaison auf. </seg></tuv>
+      <tuv xml:lang="en"><seg>In Europe, influenza occurs in regular annual epidemics in the winter season. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Ansteckung erfolgt hauptsächlich durch direkten Kontakt mit Sekreten wie z. B. Tröpfchen von infektiösen Patienten, wenn sie husten oder ausatmen. </seg></tuv>
+      <tuv xml:lang="en"><seg>This is mainly via direct contact with secretions from infectious patients, such as droplets of fluid released when they cough or breathe out. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Menschen mit Vorerkrankungen besteht ein erhöhtes Risiko, dass sich die Vorerkrankung nach der Grippe-Infektion verschlimmert. </seg></tuv>
+      <tuv xml:lang="en"><seg>People with pre-existing medical conditions are at higher risk of their condition worsening following influenza infection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei einer Pandemie handelt es sich um die rasche weltweite Verbreitung eines neuen, Grippevirus, das den Menschen befällt. </seg></tuv>
+      <tuv xml:lang="en"><seg>A pandemic is the rapid spread of a new human influenza around the world. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn sich Symptome zeigen, handelt es sich dabei meistens um: </seg></tuv>
+      <tuv xml:lang="en"><seg>For those that do, common symptoms include: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In seiner Empfehlung zur Impfung gegen die saisonale Grippe ruft der Rat der EU die Mitgliedstaaten auf, die Durchimpfungsrate bei den Beschäftigten des Gesundheitswesens zu verbessern. </seg></tuv>
+      <tuv xml:lang="en"><seg>The EU Council Recommendation on seasonal influenza vaccination encourages countries to improve vaccination coverage among healthcare workers. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Antivirale Medikamente sollten so schnell wie möglich nach dem Auftreten der Grippesymptome eingenommen werden und stellen eine sichere und wirksame Behandlungsmethode dar. </seg></tuv>
+      <tuv xml:lang="en"><seg>Antiviral medicines, taken as rapidly as possible after illness onset, are safe and effective measures for the treatment of influenza. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Halsschmerzen </seg></tuv>
+      <tuv xml:lang="en"><seg>sore throat; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Neben Impfungen haben sich antivirale Medikamente als sichere und wirksame Methode zur Vorbeugung und in bestimmten Umfeldern (z. B. in Pflegeheimen) zur Minderung des Schweregrades von Grippe-Infektionen erwiesen. </seg></tuv>
+      <tuv xml:lang="en"><seg>In addition to vaccination, antiviral medicines have been shown to be safe and effective measures to prevent influenza infection or to reduce the severity of infection in certain settings, such as nursing homes. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu den Komplikationen bei einer Grippe-Erkrankung gehören Lungenentzündung und Gehirnentzündung (Enzephalitis). </seg></tuv>
+      <tuv xml:lang="en"><seg>Complications of influenza include pneumonia and encephalitis (inflammation of the brain). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der Schweregrad von Grippe-Infektionen variiert stark und reicht von völliger Symptomfreiheit bis hin zu schwerer Erkrankung. </seg></tuv>
+      <tuv xml:lang="en"><seg>The severity of the disease varies widely, from no symptoms at all through to severe illness. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Husten ohne Auswurf. </seg></tuv>
+      <tuv xml:lang="en"><seg>non-productive cough. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie verbreitet sich Grippe? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is influenza spread? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In den meisten Fällen wird den Patienten empfohlen, im Bett zu bleiben und viel zu trinken, um ihre Symptome zu lindern. </seg></tuv>
+      <tuv xml:lang="en"><seg>For most cases of influenza, patients are advised to take bed rest and drink plenty of fluids in order to manage their symptoms; staying at home also minimises the risk of infecting others. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören u. a. ältere Menschen und Menschen mit chronischen Gesundheitsproblemen wie Herz- und Gefäßkrankheiten, Lungen- und Atemwegserkrankungen, Diabetes oder geschwächtem Immunsystem. </seg></tuv>
+      <tuv xml:lang="en"><seg>The EU Member States recommend seasonal influenza vaccination for risk groups, such as the elderly, as well as individuals with chronic medical conditions like heart disease, problems with the lungs and airways, diabetes or immune system problems. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei wem besteht ein Grippe-Risiko? </seg></tuv>
+      <tuv xml:lang="en"><seg>Who is at risk of influenza? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Symptome zeigen sich bei Grippe? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the symptoms of influenza? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Säuglingen, älteren Menschen mit geschwäctes Immunsystem und bestimmten medizinischen Risikogruppen treten häufiger schwere Erkrankungen und Komplikationen auf. </seg></tuv>
+      <tuv xml:lang="en"><seg>Severe illness and complications are more common in very young infants, the frail elderly and certain medical risk groups. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Komplikationen können bei Grippe auftreten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the complications of influenza? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wenn sich ihr Zustand weiter verschlechtert, sollten die Patienten medizinische Hilfe in Anspruch nehmen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Patients are advised to seek medical advice if their condition continues to get worse. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>seine Bestandteile, einschließlich seiner inaktiven Bestandteile oder „Hilfsstoffe"; </seg></tuv>
+      <tuv xml:lang="en"><seg>its ingredients, including its inactive ingredients or ‘excipients'; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>seine Reinheit; </seg></tuv>
+      <tuv xml:lang="en"><seg>its purity; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören Tests im Labor und an Tieren. </seg></tuv>
+      <tuv xml:lang="en"><seg>This involves tests in the laboratory and in animals. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei diesem Programm müssen die von den Zulassungsbehörden festgelegten Verfahren und Protokollen eingehalten werden: </seg></tuv>
+      <tuv xml:lang="en"><seg>This programme has to follow the procedures and protocols set by the regulators: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>seine Herstellungsweise. </seg></tuv>
+      <tuv xml:lang="en"><seg>how it is manufactured. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ist der Impfstoff sicher? </seg></tuv>
+      <tuv xml:lang="en"><seg>Is the vaccine safe? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören die Europäische Arzneimittel-Agentur und andere Zulassungsbehörden in den EU/EWR-Ländern. </seg></tuv>
+      <tuv xml:lang="en"><seg>These include the European Medicines Agency and other regulators in the EU/EEA countries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie reagieren die Immunsysteme der Teilnehmer auf den Impfstoff? </seg></tuv>
+      <tuv xml:lang="en"><seg>How are the immune systems of the participants responding to the vaccine? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der Impfstoffentwickler testet den Impfstoff in drei Phasen klinischer Studien, wobei in jeder Phase eine größere Anzahl von Menschen getestet wird. </seg></tuv>
+      <tuv xml:lang="en"><seg>The vaccine developer tests the vaccine in three phases of clinical trials, with larger numbers of people in each phase. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Treten schwerwiegende Nebenwirkungen auf? </seg></tuv>
+      <tuv xml:lang="en"><seg>Are there serious side effects? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei den Tests wird auch die Qualität des Impfstoffs überprüft: </seg></tuv>
+      <tuv xml:lang="en"><seg>Testing includes checking the vaccine's quality: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Scheint der Impfstoff zu wirken? </seg></tuv>
+      <tuv xml:lang="en"><seg>Does the vaccine seem to work? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie können auch Tests durchführen, um zu gewährleisten, dass die auf den Markt gebrachten Impfstoffchargen die erwartete Qualität haben und korrekt hergestellt wurden. </seg></tuv>
+      <tuv xml:lang="en"><seg>They can also run tests to make sure that the batches of vaccines released onto the market are of the expected quality and have been manufactured correctly. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welches sind die häufigsten kurzfristigen Nebenwirkungen? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the most common short-term side effects? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bevor ein Impfstoff in der EU zugelassen werden kann, muss er von seinem Entwickler gründlich getestet und anschließend einer wissenschaftlichen Bewertung durch die Zulassungsbehörden unterzogen werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Before a vaccine can be approved in the EU, it has to undergo rigorous testing by its developer and then scientific evaluation by regulatory authorities. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dann testet der Impfstoffentwickler die Wirkung des Impfstoffs. </seg></tuv>
+      <tuv xml:lang="en"><seg>Then the vaccine developer tests the vaccine's effects. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Arzneimittelbehörden können Inspektionen durchführen, um sicherzustellen, dass die vom Impfstoffentwickler bereitgestellten Informationen zuverlässig sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>Medicines regulatory authorities can carry out inspections to make sure that the information the vaccine developer provides is trustworthy. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Zulassungsbehörden können den Impfstoff nur dann genehmigen, wenn die wissenschaftliche Auswertung der Testergebnisse zeigt, dass der Nutzen des Impfstoffs gegenüber den Risiken überwiegt . </seg></tuv>
+      <tuv xml:lang="en"><seg>The regulators can only approve the vaccine if its scientific evaluation of the tests results show that the vaccine's benefits are greater than its risks . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Am Ende des Testprogramms reicht der Impfstoffentwickler die Ergebnisse als Teil einer „Genehmigung für das Inverkehrbringen" bei den Arzneimittelzulassungsbehörden in Europa ein. </seg></tuv>
+      <tuv xml:lang="en"><seg>At the end of the testing programme, the vaccine developer submits the results to the medicines regulatory authorities in Europe as part of a ‘marketing authorisation' application. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welches sind die häufigsten Nebenwirkungen? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the most common side effects? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das Programm kann vom ersten Konzept bis zur Zulassung etwa zehn Jahre dauern und es müssen strenge Standards eingehalten werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>This is followed by a clinical testing programme in humans, which can take around ten years from initial concept to authorisation and must adhere to strict standards. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Unternehmen sind verpflichtet, bei jeder auf den EU-Markt gebrachten Impfstoffcharge strenge Tests durchzuführen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The companies are required to conduct stringent testing, for which the acceptance criteria are pre-defined by the authorities, on each batch of vaccine released onto the EU market. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen finden Sie auf der ECDC-Website: https://www.ecdc.europa.eu/en/measles/facts/factsheet </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information check the ECDC website: https://www.ecdc.europa.eu/en/measles/facts/factsheet </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>zwischen dem dritten und dem siebten Tag kann das Fieber auf bis zu 41 ⁰C ansteigen; </seg></tuv>
+      <tuv xml:lang="en"><seg>on the third to seventh day, the temperature may reach up to 41 ⁰C; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es handelt sich um eine schwere Krankheit, die zu Komplikationen und sogar zum Tod führen kann. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is a serious disease that can lead to complications and even death. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>die Augen röten sich und reagieren empfindlich auf Licht; </seg></tuv>
+      <tuv xml:lang="en"><seg>the eyes become red and sensitive to light; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die erste Dosis wird in europäischen Ländern im Alter von 10 bis 18 Monaten gegeben. </seg></tuv>
+      <tuv xml:lang="en"><seg>The first dose is given between 10 and 18 months of age in European countries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei 30 % der mit Masern infizierten Kinder und Erwachsenen können Komplikationen auftreten. </seg></tuv>
+      <tuv xml:lang="en"><seg>30% of children and adults infected with measles can develop complications. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Schätzungen zufolge kann eine Person mit Masern im Durchschnitt 12 bis 18 ungeschützte Personen infizieren. </seg></tuv>
+      <tuv xml:lang="en"><seg>It is estimated that one person with measles can infect on average between 12 and 18 unprotected people. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es gibt keine spezielle Behandlung bei Masern. </seg></tuv>
+      <tuv xml:lang="en"><seg>There is no specific treatment for measles. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese vor dem Alter von neun Monaten gegebene Dosis kommt zu den beiden Dosen hinzu, die im nationalen Impfprogramm vorgesehen sind und einen umfassenden Schutz gewährleisten sollen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Such dose before the age of nine months is supplementary to the two doses included in the national vaccination programme, which are aimed to give full protection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Den einzigen Schutz vor Masern bietet eine Impfung. </seg></tuv>
+      <tuv xml:lang="en"><seg>The only protection against measles is vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Tröpfchen, die das Virus enthalten, können mehrere Stunden in der Luft bleiben; auf kontaminierten Flächen bleibt das Virus bis zu zwei Stunden lang ansteckend. </seg></tuv>
+      <tuv xml:lang="en"><seg>Virus-containing droplets can remain in the air for several hours and the virus remains infectious on contaminated surfaces for up to two hours. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Sterblichkeit bei Masern beträgt 1 bis 3 pro 1 000 Erkrankte und ist bei unter Fünfjährigen und Immungeschwächten am höchsten. </seg></tuv>
+      <tuv xml:lang="en"><seg>The mortality rate for measles is 1-3 persons per 1 000 cases and highest in those younger than five years of age and among immunocompromised individuals. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Personen, die nicht gegen Masern geimpft sind oder die Erkrankung noch nicht hatten, können in jedem Alter die Masern bekommen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Anyone who is not vaccinated against measles or who has not had the disease is at risk of getting measles at any age. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Kinder im Alter von sechs bis neun Monaten, die sich in einem Gebiet mit hohem Masernrisiko aufhalten oder in solche Gebiete reisen, sollten eine zusätzliche Dosis MMR-Impfstoff erhalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Infants from six to nine months of age who are in an area - or will be travelling to areas - with high risk of exposure to measles, should receive a supplementary dose of the MMR vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu den Symptomen gehören Pesönlichkeitsveränderungen, allmählicher geistiger Abbau, Muskelkrämpfe und sonstige neuromuskuläre Symptome. </seg></tuv>
+      <tuv xml:lang="en"><seg>Symptoms include personality changes, gradual mental deterioration, muscle spasms and other neuromuscular symptoms. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Masern-Symptome treten in der Regel 10 bis 12 Tage nach der Infektion auf: </seg></tuv>
+      <tuv xml:lang="en"><seg>Measles symptoms usually appear after 10-12 days of infection: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie kann Masern vorgebeugt werden? </seg></tuv>
+      <tuv xml:lang="en"><seg>How can measles be prevented? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die SSPE ist nicht heilbar und verläuft immer tödlich. </seg></tuv>
+      <tuv xml:lang="en"><seg>There is no cure for SSPE and it always leads to death. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine infizierte Person kann die Masern noch vor dem Auftreten des Hautausschlags (normalerweise 4 Tage) und etwa 4 Tage lang nach dem Verschwinden des Ausschlags übertragen. </seg></tuv>
+      <tuv xml:lang="en"><seg>A person who is infected may transmit measles even before the rash appears (usually 4 days), and for about 4 days after the rash has appeared. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Masern sind eine hoch ansteckende Viruserkrankung, die in jedem Alter auftreten und sich stark verbreiten kann. </seg></tuv>
+      <tuv xml:lang="en"><seg>Measles is a highly contagious viral disease that can be contracted at any age, and that can spread widely. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei etwa einem von 1 000 Masernpatienten kommt es zu einer Entzündung des Hirngewebes (Enzephalitis), die in rund 25 % der Fälle zu anhaltenden neurologischen Störungen führt. </seg></tuv>
+      <tuv xml:lang="en"><seg>About 1 measles patient in 1 000 develops inflammation of the brain tissue (encephalitis), a condition that results in permanent neurological disability in approximately one of four cases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>im Gesicht tritt ein roter Ausschlag auf, der sich anschließend über den gesamten Körper ausbreitet; er dauert vier bis sieben Tage lang; </seg></tuv>
+      <tuv xml:lang="en"><seg>a red rash lasting four to seven days begins on the face and then spreads over the entire body; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die SSPE tritt in der Regel mehrere Jahre nach der Masernerkrankung auf, im Durchschnitt 7 bis 10 Jahre nach der Infektion. </seg></tuv>
+      <tuv xml:lang="en"><seg>SSPE typically appears several years after the affected patient had measles; on average it is seen 7 to 10 years after the infection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die ersten Symptome ähneln denen einer Erkältung mit Schnupfen, Husten und leichtem Fieber; </seg></tuv>
+      <tuv xml:lang="en"><seg>initial symptoms resemble a cold with a runny nose, cough and a mild fever; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Antibiotika sind bei Masern wirkungslos, da Masern durch Viren ausgelöst werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Antibiotics are not effective against measles because it is caused by a virus. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Allerdings werden Antibiotika häufig zur Behandlung masernbedingter Komplikationen eingesetzt, die mit bakteriellen Infektionen einhergehen (z. B. Lungenentzündung und Mittelohrentzündungen). </seg></tuv>
+      <tuv xml:lang="en"><seg>However, antibiotics are often used to treat complications with bacterial infections that can develop because of measles, such as pneumonia and ear infections. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>auf dem Zahnfleisch und der Innenseite der Wangen können sich kleine weiße Flecken bilden. </seg></tuv>
+      <tuv xml:lang="en"><seg>small white spots may also appear on the gums and the inside of the cheeks. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine mögliche schwerwiegende Komplikation ist die Lungenentzündung, die schon bei einigen Masern-Patienten zum Tod geführt hat. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pneumonia is a potential serious complication that has led to the death of some measles patients. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei einigen Geimpften tritt meist 7 bis 14 Tage nach der Impfung ein nicht ansteckender masernähnlicher Hautausschlag auf, der innerhalb von 1 bis 3 Tagen verschwindet. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some vaccine recipients develop a non-infectious mild measles-like rash, typically 7 - 14 days after vaccination, which disappears within 1 - 3 days. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Lungenentzündung ist für die Mehrzahl der masernbedingten Todesfälle verantwortlich. </seg></tuv>
+      <tuv xml:lang="en"><seg>Pneumonia is the most common cause of measles-related death. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei wem besteht ein Masern-Risiko? </seg></tuv>
+      <tuv xml:lang="en"><seg>Who is at risk of measles? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Ausbrüchen kann die MMR-Impfung auch in einem früheren Lebensalter vorgenommen werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>The MMR vaccine may be given earlier in life during outbreaks. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die meisten Menschen erholen sich mit unterstützenden Maßnahmen wie Flüssigkeitszufuhr und fiebersenkenden Medikamenten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Most people recover with supportive treatment, which can include hydration and anti-fever medicines. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie verbreiten sich die Masern? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is measles spread? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei ungeimpften Personen breiten sich die Masern rasch aus. </seg></tuv>
+      <tuv xml:lang="en"><seg>Measles spreads easily among unvaccinated individuals. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Komplikationen können bei Masern auftreten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the complications of measles? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Masern werden durch Tröpfcheninfektion übertragen, wenn eine infizierte Person hustet oder niest. </seg></tuv>
+      <tuv xml:lang="en"><seg>The measles virus is spread via airborne droplets produced when the infected person coughs and sneezes. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der MMR-Impfstoff ist ein Kombinationsimpfstoff gegen Masern, Mumps und Röteln. </seg></tuv>
+      <tuv xml:lang="en"><seg>The MMR (measles, mumps and rubella) vaccine is a combination vaccine that protects against measles, mumps and rubella (German measles). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören beispielsweise Mittelohrinfektionen und Durchfall. </seg></tuv>
+      <tuv xml:lang="en"><seg>These can include ear infections and diarrhoea. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Symptome zeigen sich bei einer Masern-Infektion? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the symptoms of measles? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>So dürfen beispielsweise erkrankte Personen und Personen mit unklarem Impfstatus, die in engem Kontakt zu den Erkrankten stehen, nicht die Schule besuchen oder zur Arbeit gehen. </seg></tuv>
+      <tuv xml:lang="en"><seg>A variety of measures are employed to avoid the further spread of measles, such as quarantine from school or work for both the ill person and those close contacts with uncertain vaccination status. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In sehr seltenen Fällen kann als Spätfolge einer Masern-Virus-Infektion eine subakute sklerosierende Panenzephalitis (SSPE) auftreten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Very rarely, a persistent measles virus infection can produce subacute sclerosing panencephalitis (SSPE), a disease in which nerves and brain tissue degenerate progressively and which is more likely to appear if measles infection occurs at a younger age. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Situation in Bezug auf Masern in der EU </seg></tuv>
+      <tuv xml:lang="en"><seg>Situation of measles in the EU </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nutzer haben die Möglichkeit, Informationen nach Kriterien wie Krankheit und Zeitraum zu filtern. </seg></tuv>
+      <tuv xml:lang="en"><seg>It provides options for the user to filter information by criteria such as disease and time-period. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Daten basieren auf Informationen, die von den Mitgliedstaaten über das Krankheitsüberwachungssystem des ECDC übermittelt und überprüft wurden. </seg></tuv>
+      <tuv xml:lang="en"><seg>The data is based on information submitted and verified by Member States through ECDC's disease surveillance system. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nachstehend finden Sie die neuesten Daten zu Masernausbrüchen in den EU-Mitgliedstaaten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Below are the most recent data on measles outbreaks in EU Member States. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Der Überwachungsatlas des ECDC für Infektionskrankheiten liefert auch Daten zu anderen durch Impfung vermeidbaren Krankheiten wie Diphtherie, Keuchhusten und Röteln. </seg></tuv>
+      <tuv xml:lang="en"><seg>The ECDC Surveillance Atlas of Infectious Diseases also provides data on other vaccine-preventable diseases, such as diphtheria, pertussis and rubella. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationsblätter werden zu einem späteren Zeitpunkt aufgenommen. </seg></tuv>
+      <tuv xml:lang="en"><seg>More factsheets will be included at a later stage. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dank Impfung ist es möglich, Menschen vor Krankheiten zu schützen, die ernste Folgen für ihre Gesundheit haben könnten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Thanks to vaccination, people can be protected against diseases that could have serious consequences for their health. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Durch Impfung wird außerdem das Risiko einer Ausbreitung der Krankheiten unter Familienangehörigen, Freunden und Nachbarn sowie anderen Personen in der Gemeinschaft reduziert. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination also reduces the risk of spreading the diseases among family members, school mates or colleagues, friends and neighbours, as well as to other people in the community. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Jedes Informationsblatt enthält wichtige Fakten zu einer Krankheit, mit einer Übersicht der Symptome, der Komplikationen, der Ausbreitungsmechanismen der Krankheit, der gefährdeten Personen, der Maßnahmen zur Vorbeugung der Krankheit sowie der Möglichkeiten ihrer Behandlung. </seg></tuv>
+      <tuv xml:lang="en"><seg>Each factsheet provides key facts about a disease, with an overview of the symptoms, complications, how the disease spreads, who is at risk, how the disease can be prevented and how it can be treated. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Um mehr über die Krankheiten zu erfahren, denen durch Impfung vorgebeugt werden kann, lesen Sie die unten verfügbaren Informationsblätter. </seg></tuv>
+      <tuv xml:lang="en"><seg>To learn more about the diseases that can be prevented by vaccination, consult the factsheets available below. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Heutzutage kann vielen Krankheiten durch Impfungen vorgebeugt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Nowadays, several diseases can be prevented by vaccination. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Informationsblatt zu Krankheiten </seg></tuv>
+      <tuv xml:lang="en"><seg>Disease factsheets </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es wird laufend geforscht, um Impfstoffe gegen weitere Krankheiten zu entwickeln. </seg></tuv>
+      <tuv xml:lang="en"><seg>Research is ongoing to develop vaccines against more diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Derzeit sind Informationsblätter zu fünf durch Impfung vermeidbare Krankheiten verfügbar. </seg></tuv>
+      <tuv xml:lang="en"><seg>Factsheets of five vaccine- preventable diseases are currently available. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Eine HPV-Infektion ist eine Virus-Infektion, die hauptsächlich durch direkten Kontakt sexuell übertragen wird... </seg></tuv>
+      <tuv xml:lang="en"><seg>Human papillomavirus (HPV) infection is a viral infection that is mainly sexually transmitted by direct contact... </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Keuchhusten handelt es sich um eine hochinfektiöse, durch Bakterien verursachte Lungen- und Atemwegserkrankung. </seg></tuv>
+      <tuv xml:lang="en"><seg>Influenza (flu) is a contagious respiratory illness caused by infection with an influenza virus. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weiterlesen </seg></tuv>
+      <tuv xml:lang="en"><seg>Read more About us . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Keuchhusten </seg></tuv>
+      <tuv xml:lang="en"><seg>Trusted sources </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In einigen Ländern werden derartige Empfehlungen auf staatlicher oder regionaler Ebene ausgesprochen. </seg></tuv>
+      <tuv xml:lang="en"><seg>In some countries such recommendations are done at state or regional level. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Sie enthalten ebenso Empfehlungen für Menschen mit chronischen Erkrankungen. </seg></tuv>
+      <tuv xml:lang="en"><seg>They also provide recommendations for people with chronic diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Offizielle Websites aus EU- und EWR-Ländern </seg></tuv>
+      <tuv xml:lang="en"><seg>Official websites from EU and EEA countries </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Das Vaccine Safety Net (VSN) ist ein globales Netzwerk von Websites, das von der Weltgesundheitsorganisation eingerichtet wurde und über das zuverlässige Informationen über die Sicherheit von Impfstoffen bereitgestellt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>The Vaccine Safety Net (VSN) is a global network of websites, established by the World Health Organization, that provides reliable information on vaccine safety. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe werden für verschiedene Altersgruppen empfohlen, oft für Babys und Kinder, aber auch für Heranwachsende, Erwachsene und ältere Menschen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines are recommended for different age groups, often for infants and children, but also for teenagers, adults and elderly people. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In diesem Abschnitt finden Sie Links zu den Websites anderer Gesundheitsorganisationen sowohl auf nationaler als auch auf internationaler Ebene, um einfach auf zuverlässige Informationsquellen zugreifen zu können, wie z. B.: </seg></tuv>
+      <tuv xml:lang="en"><seg>This section provides links to the websites of other health organisations both at national and international level, in order to facilitate access to trusted sources of information, such as: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Einige Impfstoffe werden nicht nach Routine-Impfplänen verabreicht, sondern sind für bestimmte Gruppen bestimmt. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some vaccines are not part of routine vaccination schedules but are targeted at specific groups. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Impfungen in den nationalen Impfplänen werden zu den passenden Zeitpunkten gegeben, um einen angemessenen Schutz zu gewährleisten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccines in the national schedules are given in the appropriate timeframes to ensure adequate protection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Beim Suchen nach gesundheitsbezogenen Informationen können die Qualität und Genauigkeit der gefundenen Informationen oftmals nur schwer beurteilt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>When looking at health-related information, it can be difficult to judge the quality and accuracy of information found. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Immer wieder muss man sich fragen, wo die richtigen Informationen zu finden sind, wer hinter der Entwicklung der Informationen steht und auch, ob die Informationen wissenschaftlich belegt sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>People may wonder where to find accurate information, who is behind the development of the information they find, and also if the information is supported by scientific evidence. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Angehörige der Gesundheitsberufe (z. B. Ärzte, Krankenpflegekräfte) müssen sicherstellen, dass von ihnen betreute Patienten zum richtigen Zeitpunkt die empfohlenen Impfstoffe erhalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Healthcare professionals (e.g. doctors, nurses) have a role in ensuring that patients in their care receive the recommended vaccines at the right time. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In jedem EU-/EWR-Land ist das gleiche Schutzniveau sichergestellt. </seg></tuv>
+      <tuv xml:lang="en"><seg>The same level of protection is ensured in each EU/EEA country. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Frauen im gebärfähigen Alter sollten mit dem behandelnden medizinischen Fachpersonal besprechen, welche Impfungen vor, während und nach einer Schwangerschaft empfohlen werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Women of childbearing age should discuss with their healthcare provider which vaccines are recommended before, during and after pregnancy. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diphterie - jeder 10 Erkrankte stirbt daran, selbst bei Behandlung (1); </seg></tuv>
+      <tuv xml:lang="en"><seg>diphtheria kills 1 in every 10 people who get it, even with treatment (1); </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Entscheidungen über Impfstoffe in verschiedenen europäischen Ländern </seg></tuv>
+      <tuv xml:lang="en"><seg>Decisions on vaccines in use in different European countries </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nachstehend finden Sie Links zu offiziellen Websites mit Informationen über Impfungen von öffentlichen Gesundheitsorganisationen der Länder der Europäischen Union (EU) und des Europäischen Wirtschaftsraums (EWR). </seg></tuv>
+      <tuv xml:lang="en"><seg>Below are links to official websites with information on vaccination from public health organisations of the European Union (EU) and European Economic Area (EEA) countries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu den Faktoren, die solche Unterschiede begünstigen, gehören z. B. die Belastung durch die Erkrankung, die Häufigkeit der Erkrankung und Trends in verschiedenen Ländern, die Ressourcen und Strukturen der Gesundheitssysteme, politische und kulturelle Faktoren sowie die Widerstandsfähigkeit des Impfprogramms. </seg></tuv>
+      <tuv xml:lang="en"><seg>Factors driving such differences may include the disease's burden, prevalence of the disease and trends in different countries, the resources and structures of healthcare systems, political and cultural factors, as well as the resilience of the vaccination programme. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Patienten, deren Immunität herabgesetzt ist, profitieren außerdem davon, wenn alle Personen in ihrem Umfeld (Familienmitglieder, Pflegepersonal) über einen vollständigen Impfschutz verfügen, weil auch sie dadurch indirekt geschützt werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Immunocompromised patients also benefit from those around them being fully vaccinated (such as family members, caregivers), as then they are also indirectly protected. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese Liste mit Beispielen enthält Krankheiten, für die in nationalen Immunisierungsprogrammen Impfstoffe vorgesehen sind und/oder gegen die Personen geimpft werden, die ein erhöhtes Erkrankungsrisiko haben. </seg></tuv>
+      <tuv xml:lang="en"><seg>This list with examples includes diseases for which vaccines are included in the national immunisation programmes, and/or are given to persons considered to be at a higher risk of getting the disease. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In manchen Fällen wird vor Einleitung einer Behandlung die vollständige Durchführung der erforderlichen Immunisierungen empfohlen, da das Infektionsrisiko während der Behandlung möglicherweise erhöht ist. </seg></tuv>
+      <tuv xml:lang="en"><seg>In some cases, the completion of the immunisations needed is recommended prior to the start of a treatment, as during the treatment the patient may be at higher risks of infection. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese Reaktionen treten in der Regeln innerhalb von wenigen Minuten nach Exposition gegenüber dem Auslöser der Allergie auf. </seg></tuv>
+      <tuv xml:lang="en"><seg>It usually occurs within minutes of exposure to the source of the allergy. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Es sollten alle nötigen Maßnahmen ergriffen werden, um sicherzustellen, dass Mädchen alle empfohlenen Impfungen erhalten, bevor sie das gebärfähige Alter erreichen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Every effort should be made to see that women receive all routinely recommended vaccines before they reach child-bearing age. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Einige Länder verlangen vor der Einreise einen Impfnachweis. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some countries require proof of certain vaccinations before granting entry to the country. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Unterschiede betreffen u. a. die zu impfenden Alters- und Bevölkerungsgruppen (z. B. alle Kinder eines bestimmten Alters oder nur bestimmte Risikogruppen), den genauen Impfstoff (einige Inhaltsstoffe können sich unterscheiden), die Anzahl und zeitlichen Abstände der Dosen oder die Gabe von Einzel- oder Kombinationsimpfstoffen. </seg></tuv>
+      <tuv xml:lang="en"><seg>These may include the age and population to be vaccinated (for example, all children of a certain age or only those in a risk group), the exact type of vaccine (e.g. some ingredients may differ), the number and timing of doses, and whether a vaccine is given alone or in combination with others. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Anaphylaxie handelt es sich um seltene, schnelle und heftige allergische Reaktionen, die Kreislaufversagen, Schwellungen und Atemnot verursachen können. </seg></tuv>
+      <tuv xml:lang="en"><seg>Anaphylaxis is a rare, rapid, extreme allergic reaction which can cause shock, swelling and difficulty breathing. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die meisten Impfprogramme in der EU/im EWR sehen Impfungen gegen bis zu zwanzig Krankheiten vor, die Menschen verschiedener Altersgruppen gegeben werden. </seg></tuv>
+      <tuv xml:lang="en"><seg>Most national vaccination programmes in the EU/EEA include vaccines for up to twenty diseases which are given to people at specific ages. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei einer Vorgeschichte von „anaphylaktischen" oder anderen schweren allergischen Reaktionen nach einer Impfung sind weitere Dosen des betreffenden Impfstoffs kontraindiziert. </seg></tuv>
+      <tuv xml:lang="en"><seg>A history of 'anaphylactic' or other serious allergic reaction after receiving a vaccine is a contraindication to further doses of that vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Personen, die nach einer Impfung eine anaphylaktische oder andere schwere allergische Reaktion erleiden, sollten den betreffenden Impfstoff nicht wieder erhalten, sofern er nicht definitiv als Ursache ausgeschlossen werden kann. </seg></tuv>
+      <tuv xml:lang="en"><seg>Someone who experiences an anaphylactic or other serious allergic reaction following a certain vaccine should not be given that vaccine again, unless the vaccine is definitively ruled out as the cause. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bestimmte Erkrankungen des Immunsystems (z. B. angeborene Immunschwäche) oder medizinische Therapien (z. B. Chemotherapie, Knochenmark- oder andere Transplantation, hohe Steroid-Dosen) sind Kontraindikationen für manche Impfstoffe wie z. B. solche gegen Masern, Mumps, Röteln und Windpocken oder orale Typhusimpfstoffe. </seg></tuv>
+      <tuv xml:lang="en"><seg>Certain immune system disorders (e.g. congenital immune deficiencies), or medical treatments (e.g. chemotherapy, a bone marrow or other organ transplant, or high doses of steroids) are contraindications for some vaccines, such as measles, mumps, rubella, varicella or oral typhoid. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Impfpläne für Kinder umfassen in allen EU-/EWR-Ländern Impfungen gegen: </seg></tuv>
+      <tuv xml:lang="en"><seg>The childhood vaccination schedules in all EU/EEA countries include the vaccination against: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Nationale Impfpläne in EU-/EWR-Ländern empfehlen Impfstoffe für bestimmte Altersgruppen und Populationen. </seg></tuv>
+      <tuv xml:lang="en"><seg>National vaccination schedules in EU/EEA countries recommend vaccines at specific ages and for specific populations. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Für bestimmte Impfstoffe bestehen möglicherweise weitere Gegenanzeigen, die mit dem medizinischen Fachpersonal zu erörtern sind. </seg></tuv>
+      <tuv xml:lang="en"><seg>There may be other contraindications for specific vaccines, which need discussing with the healthcare provider. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>In einigen Fällen werden mehrere Impfstoffe auf einmal gegeben, um die geimpfte Person gegen mehrere Infektionskrankheiten zu schützen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Sometimes, more than one vaccine may be given at once to protect against several infectious diseases. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Diese Entscheidung hängt unter anderem von der epidemiologischen situation, z.b. der Häufigkeit der Erkrankung und wirtschaftlichen Faktoren ab. </seg></tuv>
+      <tuv xml:lang="en"><seg>This is based on local conditions, such as how common the disease is, as well as economic factors. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Masern - diese Krankheit ist hoch ansteckend und führt bei 3 von 10 Betroffenen zu Komplikationen (4) wie Ohrenentzündungen, Durchfall, Lungenentzündungen und Enzephalitis (Entzündung des Hirngewebes); </seg></tuv>
+      <tuv xml:lang="en"><seg>measles is highly contagious and 3 out of 10 people affected develop complications (4), which can include ear infection, diarrhoea, pneumonia and encephalitis (inflammation of the brain tissue); </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Röteln - fast 9 von 10 Babys, deren Mutter zu Beginn der Schwangerschaft Röteln hatte, leiden am Gregg-Syndrom (mit Beschwerden wie Gehörlosigkeit, Grauem Star und Lernstörungen (2); </seg></tuv>
+      <tuv xml:lang="en"><seg>almost 9 out of 10 babies born to mothers who had rubella in early pregnancy, will suffer from congenital rubella syndrome (with conditions such as deafness, cataracts and learning disabilities) (2); </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Informationen über die nationalen Impfpläne in den EU-/EWR-Ländern sind dem ECDC-Impfplaner (ECDC Vaccine Scheduler) zu entnehmen. </seg></tuv>
+      <tuv xml:lang="en"><seg>Information on the national vaccination schedules in EU/EEA countries can be found in the ECDC Vaccine Scheduler . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Informationen und Links zu den Websites der Mitglieder des Netzwerks finden Sie hier: https://www.vaccinesafetynet.org/vsn/network . </seg></tuv>
+      <tuv xml:lang="en"><seg>Information and links to the VSN member websites is available here: https://www.vaccinesafetynet.org/vsn/network . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Gestaltung der Impfpläne unterscheidet sich von Land zu Land, ist in der EU/im EWR insgesamt jedoch ähnlich. </seg></tuv>
+      <tuv xml:lang="en"><seg>There are some differences in the way countries organise their vaccination schedules, which are similar but not identical in different EU/EEA countries. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Beispielsweise müssen ggf. Menschen geimpft werden, die in Regionen reisen, wo sich Infektionskrankheiten wie Gelbfieber und typhoides Fieber verbreiten. </seg></tuv>
+      <tuv xml:lang="en"><seg>For example, people who travel to regions where certain infectious diseases circulate such as yellow fever and typhoid fever may need to have vaccinations. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen über nationale Impfprogramme finden Sie im ECDC-Impfplaner und auf den offiziellen Websites der EU-/EWR-Länder zum Thema Immunisierung. </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information about national vaccination programmes, see the ECDC vaccine scheduler and visit the official websites on immunisation of the EU/EEA countries here . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die Unterschiede zwischen den Impfplänen bedeuten nicht, dass manche Programme besser oder schlechter sind, sondern dass sie die unterschiedlichen Umstände und Gesundheitssysteme berücksichtigen. </seg></tuv>
+      <tuv xml:lang="en"><seg>The differences between vaccination schedules do not mean that some are better than others. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Während der Schwangerschaft sind einige Impfstoffe wie Masern-, Mumps- und Rötelnimpfungen kontraindiziert. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some vaccines are contraindicated during pregnancy, such as measles, mumps and rubella. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Bei Personen, die gegen einen der in der Produktinformation angegebenen Wirkstoffe oder weitere Inhaltsstoffe allergisch sind, ist der Impfstoff kontraindiziert. </seg></tuv>
+      <tuv xml:lang="en"><seg>A vaccine is contraindicated to those allergic to any of the vaccine active substances or ingredients as listed in the product information. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfungen schützen den Menschen vor Krankheiten, die schwere gesundheitliche Folgen haben können, z. B.: </seg></tuv>
+      <tuv xml:lang="en"><seg>Vaccination protects individuals against diseases that could have serious consequences for their health, for example: </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Keuchhusten - diese Krankheit kann bei Säuglingen besonders schwer verlaufen und über zwei Monate hinweg immer wieder Hustenanfälle auslösen. </seg></tuv>
+      <tuv xml:lang="en"><seg>pertussis (whooping cough) can be particularly serious in infants, causing coughing spells that may recur for up to two months. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie kann Keuchhusten vorgebeugt werden? </seg></tuv>
+      <tuv xml:lang="en"><seg>How can measles be prevented? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu den Folgeschäden zählen bei bis zu 20 % der Überlebenden neurologische Beschwerden, Hörschädigungen oder Amputationen (3); </seg></tuv>
+      <tuv xml:lang="en"><seg>meningococcal disease kills 1 in 10 people affected, even with prompt diagnosis and treatment, while problems including neurological or hearing impairment and amputation occur in up to 20% of survivors (3); </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Impfstoffe schützen gegen eine oder mehrere Krankheiten. </seg></tuv>
+      <tuv xml:lang="en"><seg>Some vaccines protect against only one disease, but others protect against more than one. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Weitere Informationen über das Netzwerk finden Sie hier: https://vaccinesafetynet.org . </seg></tuv>
+      <tuv xml:lang="en"><seg>For more information about the network visit: https://vaccinesafetynet.org . </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Darüber hinaus werden für Gruppen mit erhöhtem Risiko wie chronisch Kranke oder für bestimmte Reiseziele zum Teil Impfungen gegen bestimmte Erkrankungen empfohlen. </seg></tuv>
+      <tuv xml:lang="en"><seg>In addition, vaccines to protect against specific diseases are sometimes recommended for ‘high-risk' groups, such as people with long-term health conditions or people planning to travel to other parts of the world. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Häufig ist es schwierig, sich unter allen im Internet und den sozialen Medien verfügbaren und verbreiteten Informationen über Impfungen zurechtzufinden. </seg></tuv>
+      <tuv xml:lang="en"><seg>With all the information that is available on the internet and circulating on social media on vaccination, people may sometimes get lost. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Ein Impfstoff kann für bestimmte Personen kontraindiziert sein, d. h. sie sollten ihn nicht erhalten. </seg></tuv>
+      <tuv xml:lang="en"><seg>A vaccine may be contraindicated for certain people, meaning they should not receive it. Possible contraindications should be always discussed with the healthcare provider before receiving a vaccine. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Symptome zeigen sich bei Keuchhusten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the symptoms of measles? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Zu den Komplikationen gehören Lungenentzündungen, Enzephalopathie (eine Gehirnerkrankung) und Anfälle; schlimmstenfalls kann eine Infektion sogar zum Tod führen (5). </seg></tuv>
+      <tuv xml:lang="en"><seg>Complications include pneumonia, encephalopathy (a disease of the brain), seizures and even death (5). </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Dazu gehören auch sein nationales Immunisierungsprogramm und sein Impfplan. </seg></tuv>
+      <tuv xml:lang="en"><seg>Each EU/EEA country is responsible for its own national public health policy, including its national immunisation programme and vaccination schedule. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Die gleichzeitige Anwendung von Impfstoffen ist eine seit Jahrzenten übliche Praxis, die durch zahlreiche wissenschaftliche Studien zu Nutzen und Risiken. </seg></tuv>
+      <tuv xml:lang="en"><seg>Combined use of vaccines is well established and based on scientific studies on its benefits and safety. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie kann Masern vorgebeugt werden? </seg></tuv>
+      <tuv xml:lang="en"><seg>How can pertussis be prevented? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welche Komplikationen können bei Röteln auftreten? </seg></tuv>
+      <tuv xml:lang="en"><seg>What are the complications of pertussis? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Welches ist die optimale Dosis? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is the optimal dose? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>vorherige Kontakte mit der Krankheit; </seg></tuv>
+      <tuv xml:lang="en"><seg>previous contact with the disease; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Humane Papillomviren (HPV) </seg></tuv>
+      <tuv xml:lang="en"><seg>Human papillomavirus (HPV) </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Quelle: S. Plotkin, W. Orenstein, P. Offit: Vaccines. </seg></tuv>
+      <tuv xml:lang="en"><seg>Source: Plotkin S, Orenstein W, Offit P. Vaccines. </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>der Zeitraum seit der Impfung; </seg></tuv>
+      <tuv xml:lang="en"><seg>time since vaccination; </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Was sind HPV? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is HPV? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie kann Grippe vorgebeugt werden? </seg></tuv>
+      <tuv xml:lang="en"><seg>How can influenza be prevented? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Was ist Virusgrippe? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is influenza? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Was sind Masern? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is measles? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Wie werden Masern behandelt? </seg></tuv>
+      <tuv xml:lang="en"><seg>How is measles treated? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg>Was sind Röteln? </seg></tuv>
+      <tuv xml:lang="en"><seg>What is pertussis? </seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de"><seg></seg></tuv>
+      <tuv xml:lang="en"><seg></seg></tuv>
+    </tu>
+  </body>
+</tmx>
