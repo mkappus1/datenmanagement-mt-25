@@ -1,0 +1,10 @@
+L’étudiante lit un article sur les données linguistiques.
+Son collègue analyse en même temps un corpus anglais.
+Dans l’après-midi, ils se retrouvent dans la salle informatique pour comparer leurs résultats.
+Le temps est beau, mais personne ne veut sortir.
+Certains ensembles de données contiennent des caractères spéciaux inattendus.
+L’enseignante explique comment traiter les fichiers avec Python.
+À l’étape suivante, les segments sont alignés automatiquement.
+Ensuite, les étudiants exportent leur travail sous forme de fichier TMX.
+Cela fonctionne généralement bien, bien qu’il y ait de petites différences entre les outils.
+À la fin du cours, tous les groupes doivent remettre leur corpus et une courte documentation.

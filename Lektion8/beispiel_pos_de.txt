@@ -1,0 +1,10 @@
+Die Studentin liest einen Artikel über Sprachdaten.
+Ihr Kollege analysiert zur gleichen Zeit ein englisches Korpus.
+Am Nachmittag treffen sie sich im Computerraum und vergleichen ihre Ergebnisse.
+Das Wetter ist schön, aber niemand möchte nach draussen gehen.
+Einige Datensätze enthalten unerwartete Sonderzeichen.
+Die Dozentin erklärt, wie man die Dateien mit Python aufbereiten kann.
+Im nächsten Schritt werden die Segmente automatisch aligniert.
+Danach exportieren die Studierenden ihre Arbeit als TMX-Datei.
+Das funktioniert meistens gut, obwohl es kleine Unterschiede zwischen den Tools gibt.
+Am Ende des Kurses sollen alle Gruppen ihr Korpus und eine kurze Dokumentation abgeben.
